@@ -1,0 +1,1283 @@
+{
+ "common": {
+  "prodL": [
+   {
+    "pid": "L::0::S::B1090519025::S_1090519025_S42::*",
+    "name": "S42",
+    "nameS": "S42",
+    "number": "S42",
+    "icoX": 0,
+    "cls": 1,
+    "oprX": 0,
+    "prodCtx": {
+     "name": "     S42",
+     "num": "1710",
+     "line": "S42",
+     "matchId": "42071",
+     "catOut": "S       ",
+     "catOutS": "S-3",
+     "catOutL": "S       ",
+     "catIn": "S-3",
+     "catCode": "0",
+     "admin": "DBS---"
+    },
+    "himIdL": [
+     "HIM_FREETEXT_140805",
+     "HIM_FREETEXT_140558",
+     "HIM_FREETEXT_138697"
+    ]
+   },
+   {
+    "name": "S8",
+    "nameS": "S8",
+    "icoX": 0,
+    "cls": 1,
+    "prodCtx": {
+     "name": "S8",
+     "line": "S8",
+     "lineId": "S8",
+     "catOut": "S       ",
+     "catOutS": "S-8",
+     "catOutL": "S       "
+    }
+   },
+   {
+    "name": "S41",
+    "nameS": "S41",
+    "icoX": 0,
+    "cls": 1,
+    "prodCtx": {
+     "name": "S41",
+     "line": "S41",
+     "lineId": "S41",
+     "catOut": "S       ",
+     "catOutS": "S-3",
+     "catOutL": "S       "
+    }
+   },
+   {
+    "name": "S42",
+    "nameS": "S42",
+    "icoX": 0,
+    "cls": 1,
+    "prodCtx": {
+     "name": "S42",
+     "line": "S42",
+     "lineId": "S42",
+     "catOut": "S       ",
+     "catOutS": "S-3",
+     "catOutL": "S       "
+    }
+   },
+   {
+    "name": "S85",
+    "nameS": "S85",
+    "icoX": 0,
+    "cls": 1,
+    "prodCtx": {
+     "name": "S85",
+     "line": "S85",
+     "lineId": "S85",
+     "catOut": "S       ",
+     "catOutS": "S12",
+     "catOutL": "S       "
+    }
+   },
+   {
+    "name": "56",
+    "nameS": "56",
+    "icoX": 2,
+    "cls": 4,
+    "prodCtx": {
+     "name": "56",
+     "line": "56",
+     "lineId": "56",
+     "catOut": "Tram    ",
+     "catOutS": "T",
+     "catOutL": "Tram    "
+    }
+   },
+   {
+    "name": "M2",
+    "nameS": "M2",
+    "icoX": 2,
+    "cls": 4,
+    "prodCtx": {
+     "name": "M2",
+     "line": "M2",
+     "lineId": "M2",
+     "catOut": "Tram    ",
+     "catOutS": "T",
+     "catOutL": "Tram    "
+    }
+   },
+   {
+    "name": "M5",
+    "nameS": "M5",
+    "icoX": 2,
+    "cls": 4,
+    "prodCtx": {
+     "name": "M5",
+     "line": "M5",
+     "lineId": "M5",
+     "catOut": "Tram    ",
+     "catOutS": "T",
+     "catOutL": "Tram    "
+    }
+   },
+   {
+    "name": "M6",
+    "nameS": "M6",
+    "icoX": 2,
+    "cls": 4,
+    "prodCtx": {
+     "name": "M6",
+     "line": "M6",
+     "lineId": "M6",
+     "catOut": "Tram    ",
+     "catOutS": "T",
+     "catOutL": "Tram    "
+    }
+   },
+   {
+    "name": "M8",
+    "nameS": "M8",
+    "icoX": 2,
+    "cls": 4,
+    "prodCtx": {
+     "name": "M8",
+     "line": "M8",
+     "lineId": "M8",
+     "catOut": "Tram    ",
+     "catOutS": "T",
+     "catOutL": "Tram    "
+    }
+   },
+   {
+    "name": "M10",
+    "nameS": "M10",
+    "icoX": 2,
+    "cls": 4,
+    "prodCtx": {
+     "name": "M10",
+     "line": "M10",
+     "lineId": "M10",
+     "catOut": "Tram    ",
+     "catOutS": "T",
+     "catOutL": "Tram    "
+    }
+   },
+   {
+    "name": "156",
+    "nameS": "156",
+    "icoX": 3,
+    "cls": 8,
+    "prodCtx": {
+     "name": "156",
+     "line": "156",
+     "lineId": "156",
+     "catOut": "Bus     ",
+     "catOutS": "B",
+     "catOutL": "Bus     "
+    }
+   },
+   {
+    "name": "M6",
+    "nameS": "M6",
+    "icoX": 3,
+    "cls": 8,
+    "prodCtx": {
+     "name": "M6",
+     "line": "M6",
+     "lineId": "M6",
+     "catOut": "Bus     ",
+     "catOutS": "B",
+     "catOutL": "Bus     "
+    }
+   },
+   {
+    "name": "S41",
+    "nameS": "S41",
+    "icoX": 3,
+    "cls": 8,
+    "prodCtx": {
+     "name": "S41",
+     "line": "S41",
+     "lineId": "S41",
+     "catOut": "Bus     ",
+     "catOutS": "Bus",
+     "catOutL": "Bus     "
+    }
+   },
+   {
+    "name": "S42",
+    "nameS": "S42",
+    "icoX": 3,
+    "cls": 8,
+    "prodCtx": {
+     "name": "S42",
+     "line": "S42",
+     "lineId": "S42",
+     "catOut": "Bus     ",
+     "catOutS": "Bus",
+     "catOutL": "Bus     "
+    }
+   },
+   {
+    "name": "S2",
+    "nameS": "S2",
+    "icoX": 0,
+    "cls": 1,
+    "prodCtx": {
+     "name": "S2",
+     "line": "S2",
+     "lineId": "S2",
+     "catOut": "S       ",
+     "catOutS": "S-7",
+     "catOutL": "S       "
+    }
+   },
+   {
+    "name": "S25",
+    "nameS": "S25",
+    "icoX": 0,
+    "cls": 1,
+    "prodCtx": {
+     "name": "S25",
+     "line": "S25",
+     "lineId": "S25",
+     "catOut": "S       ",
+     "catOutS": "S-6",
+     "catOutL": "S       "
+    }
+   },
+   {
+    "name": "S26",
+    "nameS": "S26",
+    "icoX": 0,
+    "cls": 1,
+    "prodCtx": {
+     "name": "S26",
+     "line": "S26",
+     "lineId": "S26",
+     "catOut": "S       ",
+     "catOutS": "S-5",
+     "catOutL": "S       "
+    }
+   },
+   {
+    "name": "S45",
+    "nameS": "S45",
+    "icoX": 0,
+    "cls": 1,
+    "prodCtx": {
+     "name": "S45",
+     "line": "S45",
+     "lineId": "S45",
+     "catOut": "S       ",
+     "catOutS": "S-6",
+     "catOutL": "S       "
+    }
+   },
+   {
+    "name": "S46",
+    "nameS": "S46",
+    "icoX": 0,
+    "cls": 1,
+    "prodCtx": {
+     "name": "S46",
+     "line": "S46",
+     "lineId": "S46",
+     "catOut": "S       ",
+     "catOutS": "S-9",
+     "catOutL": "S       "
+    }
+   },
+   {
+    "name": "S47",
+    "nameS": "S47",
+    "icoX": 0,
+    "cls": 1,
+    "prodCtx": {
+     "name": "S47",
+     "line": "S47",
+     "lineId": "S47",
+     "catOut": "S       ",
+     "catOutS": "S-3",
+     "catOutL": "S       "
+    }
+   },
+   {
+    "name": "106",
+    "nameS": "106",
+    "icoX": 3,
+    "cls": 8,
+    "prodCtx": {
+     "name": "106",
+     "line": "106",
+     "lineId": "106",
+     "catOut": "Bus     ",
+     "catOutS": "B",
+     "catOutL": "Bus     "
+    }
+   },
+   {
+    "name": "204",
+    "nameS": "204",
+    "icoX": 3,
+    "cls": 8,
+    "prodCtx": {
+     "name": "204",
+     "line": "204",
+     "lineId": "204",
+     "catOut": "Bus     ",
+     "catOutS": "B",
+     "catOutL": "Bus     "
+    }
+   },
+   {
+    "name": "M46",
+    "nameS": "M46",
+    "icoX": 3,
+    "cls": 8,
+    "prodCtx": {
+     "name": "M46",
+     "line": "M46",
+     "lineId": "M46",
+     "catOut": "Bus     ",
+     "catOutS": "B",
+     "catOutL": "Bus     "
+    }
+   },
+   {
+    "name": "",
+    "icoX": 5,
+    "cls": 32,
+    "prodCtx": {
+     "name": ""
+    }
+   },
+   {
+    "name": "RB10",
+    "nameS": "RB10",
+    "icoX": 6,
+    "cls": 64,
+    "prodCtx": {
+     "name": "RB10",
+     "line": "RB10",
+     "lineId": "RB10",
+     "catOut": "RB      ",
+     "catOutS": "RB",
+     "catOutL": "RB      "
+    }
+   },
+   {
+    "name": "RE2",
+    "nameS": "RE2",
+    "icoX": 6,
+    "cls": 64,
+    "prodCtx": {
+     "name": "RE2",
+     "line": "RE2",
+     "lineId": "RE2",
+     "catOut": "RE      ",
+     "catOutS": "RE",
+     "catOutL": "RE      "
+    }
+   },
+   {
+    "name": "RE3",
+    "nameS": "RE3",
+    "icoX": 6,
+    "cls": 64,
+    "prodCtx": {
+     "name": "RE3",
+     "line": "RE3",
+     "lineId": "RE3",
+     "catOut": "RE      ",
+     "catOutS": "RE",
+     "catOutL": "RE      "
+    }
+   },
+   {
+    "name": "RE4",
+    "nameS": "RE4",
+    "icoX": 6,
+    "cls": 64,
+    "prodCtx": {
+     "name": "RE4",
+     "line": "RE4",
+     "lineId": "RE4",
+     "catOut": "RE      ",
+     "catOutS": "RE",
+     "catOutL": "RE      "
+    }
+   },
+   {
+    "name": "RE5",
+    "nameS": "RE5",
+    "icoX": 6,
+    "cls": 64,
+    "prodCtx": {
+     "name": "RE5",
+     "line": "RE5",
+     "lineId": "RE5",
+     "catOut": "RE      ",
+     "catOutS": "RE",
+     "catOutL": "RE      "
+    }
+   },
+   {
+    "pid": "L::0::S::B1090519025::S_1090519025_S42::*",
+    "name": "S42",
+    "nameS": "S42",
+    "number": "S42",
+    "icoX": 0,
+    "cls": 1,
+    "oprX": 0,
+    "prodCtx": {
+     "name": "     S42",
+     "num": "1357",
+     "line": "S42",
+     "matchId": "42565",
+     "catOut": "S       ",
+     "catOutS": "S-3",
+     "catOutL": "S       ",
+     "catIn": "S-3",
+     "catCode": "0",
+     "admin": "DBS---"
+    },
+    "himIdL": [
+     "HIM_FREETEXT_140805",
+     "HIM_FREETEXT_140558",
+     "HIM_FREETEXT_138697"
+    ]
+   },
+   {
+    "pid": "L::0::S::B1090519025::S_1090519025_S42::*",
+    "name": "S42",
+    "nameS": "S42",
+    "number": "S42",
+    "icoX": 0,
+    "cls": 1,
+    "oprX": 0,
+    "prodCtx": {
+     "name": "     S42",
+     "num": "1706",
+     "line": "S42",
+     "matchId": "42075",
+     "catOut": "S       ",
+     "catOutS": "S-3",
+     "catOutL": "S       ",
+     "catIn": "S-3",
+     "catCode": "0",
+     "admin": "DBS---"
+    },
+    "himIdL": [
+     "HIM_FREETEXT_140805",
+     "HIM_FREETEXT_140558",
+     "HIM_FREETEXT_138697"
+    ]
+   },
+   {
+    "pid": "L::0::S::B1090519025::S_1090519025_S42::*",
+    "name": "S42",
+    "nameS": "S42",
+    "number": "S42",
+    "icoX": 0,
+    "cls": 1,
+    "oprX": 0,
+    "prodCtx": {
+     "name": "     S42",
+     "num": "1704",
+     "line": "S42",
+     "matchId": "42077",
+     "catOut": "S       ",
+     "catOutS": "S-3",
+     "catOutL": "S       ",
+     "catIn": "S-3",
+     "catCode": "0",
+     "admin": "DBS---"
+    },
+    "himIdL": [
+     "HIM_FREETEXT_140805",
+     "HIM_FREETEXT_140558",
+     "HIM_FREETEXT_138697"
+    ]
+   },
+   {
+    "pid": "L::0::S::B1090519025::S_1090519025_S42::*",
+    "name": "S42",
+    "nameS": "S42",
+    "number": "S42",
+    "icoX": 0,
+    "cls": 1,
+    "oprX": 0,
+    "prodCtx": {
+     "name": "     S42",
+     "num": "1702",
+     "line": "S42",
+     "matchId": "42079",
+     "catOut": "S       ",
+     "catOutS": "S-3",
+     "catOutL": "S       ",
+     "catIn": "S-3",
+     "catCode": "0",
+     "admin": "DBS---"
+    },
+    "himIdL": [
+     "HIM_FREETEXT_140805",
+     "HIM_FREETEXT_140558",
+     "HIM_FREETEXT_138697"
+    ]
+   },
+   {
+    "pid": "L::2::Tram::B3041857784::Tram_3041857784_M5::*",
+    "name": "M5",
+    "nameS": "M5",
+    "number": "M5",
+    "icoX": 2,
+    "cls": 4,
+    "oprX": 1,
+    "prodCtx": {
+     "name": "      M5",
+     "num": "2780",
+     "line": "M5",
+     "matchId": "M5",
+     "catOut": "Tram    ",
+     "catOutS": "T",
+     "catOutL": "Tram    ",
+     "catIn": "T",
+     "catCode": "2",
+     "admin": "BVT---"
+    }
+   },
+   {
+    "pid": "L::0::S::B1090519025::S_1090519025_S42::*",
+    "name": "S42",
+    "nameS": "S42",
+    "number": "S42",
+    "icoX": 0,
+    "cls": 1,
+    "oprX": 0,
+    "prodCtx": {
+     "name": "     S42",
+     "num": "1700",
+     "line": "S42",
+     "matchId": "42081",
+     "catOut": "S       ",
+     "catOutS": "S-3",
+     "catOutL": "S       ",
+     "catIn": "S-3",
+     "catCode": "0",
+     "admin": "DBS---"
+    },
+    "himIdL": [
+     "HIM_FREETEXT_140805",
+     "HIM_FREETEXT_140558",
+     "HIM_FREETEXT_138697"
+    ]
+   },
+   {
+    "pid": "L::2::Tram::B3041857784::Tram_3041857784_M8::*",
+    "name": "M8",
+    "nameS": "M8",
+    "number": "M8",
+    "icoX": 2,
+    "cls": 4,
+    "oprX": 1,
+    "prodCtx": {
+     "name": "      M8",
+     "num": "3085",
+     "line": "M8",
+     "matchId": "M8",
+     "catOut": "Tram    ",
+     "catOutS": "T",
+     "catOutL": "Tram    ",
+     "catIn": "T",
+     "catCode": "2",
+     "admin": "BVT---"
+    }
+   },
+   {
+    "name": "16",
+    "nameS": "16",
+    "icoX": 2,
+    "cls": 4,
+    "prodCtx": {
+     "name": "16",
+     "line": "16",
+     "lineId": "16",
+     "catOut": "Tram    ",
+     "catOutS": "T",
+     "catOutL": "Tram    "
+    }
+   },
+   {
+    "pid": "L::2::Tram::B3041857784::Tram_3041857784_M8::*",
+    "name": "M8",
+    "nameS": "M8",
+    "number": "M8",
+    "icoX": 2,
+    "cls": 4,
+    "oprX": 1,
+    "prodCtx": {
+     "name": "      M8",
+     "num": "3151",
+     "line": "M8",
+     "matchId": "M8",
+     "catOut": "Tram    ",
+     "catOutS": "T",
+     "catOutL": "Tram    ",
+     "catIn": "T",
+     "catCode": "2",
+     "admin": "BVT---"
+    }
+   },
+   {
+    "pid": "L::2::Tram::B3041857784::Tram_3041857784_56::*",
+    "name": "56",
+    "nameS": "56",
+    "number": "56",
+    "icoX": 2,
+    "cls": 4,
+    "oprX": 1,
+    "prodCtx": {
+     "name": "      56",
+     "num": "3255",
+     "line": "56",
+     "matchId": "56",
+     "catOut": "Tram    ",
+     "catOutS": "T",
+     "catOutL": "Tram    ",
+     "catIn": "T",
+     "catCode": "2",
+     "admin": "BVT---"
+    },
+    "himIdL": [
+     "HIM_FREETEXT_140433"
+    ]
+   },
+   {
+    "name": "18",
+    "nameS": "18",
+    "icoX": 2,
+    "cls": 4,
+    "prodCtx": {
+     "name": "18",
+     "line": "18",
+     "lineId": "18",
+     "catOut": "Tram    ",
+     "catOutS": "T",
+     "catOutL": "Tram    "
+    }
+   },
+   {
+    "name": "395",
+    "nameS": "395",
+    "icoX": 3,
+    "cls": 8,
+    "prodCtx": {
+     "name": "395",
+     "line": "395",
+     "lineId": "395",
+     "catOut": "Bus     ",
+     "catOutS": "B",
+     "catOutL": "Bus     "
+    }
+   },
+   {
+    "name": "N5",
+    "nameS": "N5",
+    "icoX": 3,
+    "cls": 8,
+    "prodCtx": {
+     "name": "N5",
+     "line": "N5",
+     "lineId": "N5",
+     "catOut": "Bus     ",
+     "catOutS": "B",
+     "catOutL": "Bus     "
+    }
+   },
+   {
+    "name": "N95",
+    "nameS": "N95",
+    "icoX": 3,
+    "cls": 8,
+    "prodCtx": {
+     "name": "N95",
+     "line": "N95",
+     "lineId": "N95",
+     "catOut": "Bus     ",
+     "catOutS": "B",
+     "catOutL": "Bus     "
+    }
+   },
+   {
+    "pid": "L::0::S::B1090519025::S_1090519025_S8::*",
+    "name": "S8",
+    "nameS": "S8",
+    "number": "S8",
+    "icoX": 0,
+    "cls": 1,
+    "oprX": 0,
+    "prodCtx": {
+     "name": "      S8",
+     "num": "25595",
+     "line": "S8",
+     "matchId": "8074",
+     "catOut": "S       ",
+     "catOutS": "S-8",
+     "catOutL": "S       ",
+     "catIn": "S-8",
+     "catCode": "0",
+     "admin": "DBS---"
+    },
+    "himIdL": [
+     "HIM_FREETEXT_138781",
+     "HIM_FREETEXT_140318",
+     "HIM_FREETEXT_140320",
+     "HIM_FREETEXT_140056",
+     "HIM_FREETEXT_140112",
+     "HIM_FREETEXT_140114",
+     "HIM_FREETEXT_140655",
+     "HIM_FREETEXT_138697"
+    ]
+   },
+   {
+    "name": "S8",
+    "nameS": "S8",
+    "icoX": 0,
+    "cls": 1,
+    "prodCtx": {
+     "name": "S8",
+     "line": "S8",
+     "lineId": "S8",
+     "catOut": "S       ",
+     "catOutS": "S12",
+     "catOutL": "S       "
+    }
+   },
+   {
+    "name": "U5",
+    "nameS": "U5",
+    "icoX": 14,
+    "cls": 2,
+    "prodCtx": {
+     "name": "U5",
+     "line": "U5",
+     "lineId": "U5",
+     "catOut": "U       ",
+     "catOutS": "U",
+     "catOutL": "U       "
+    }
+   },
+   {
+    "name": "M13",
+    "nameS": "M13",
+    "icoX": 2,
+    "cls": 4,
+    "prodCtx": {
+     "name": "M13",
+     "line": "M13",
+     "lineId": "M13",
+     "catOut": "Tram    ",
+     "catOutS": "T",
+     "catOutL": "Tram    "
+    }
+   },
+   {
+    "name": "50",
+    "nameS": "50",
+    "icoX": 2,
+    "cls": 4,
+    "prodCtx": {
+     "name": "50",
+     "line": "50",
+     "lineId": "50",
+     "catOut": "Tram    ",
+     "catOutS": "T",
+     "catOutL": "Tram    "
+    }
+   },
+   {
+    "name": "M1",
+    "nameS": "M1",
+    "icoX": 2,
+    "cls": 4,
+    "prodCtx": {
+     "name": "M1",
+     "line": "M1",
+     "lineId": "M1",
+     "catOut": "Tram    ",
+     "catOutS": "T",
+     "catOutL": "Tram    "
+    }
+   },
+   {
+    "name": "M4",
+    "nameS": "M4",
+    "icoX": 2,
+    "cls": 4,
+    "prodCtx": {
+     "name": "M4",
+     "line": "M4",
+     "lineId": "M4",
+     "catOut": "Tram    ",
+     "catOutS": "T",
+     "catOutL": "Tram    "
+    }
+   },
+   {
+    "pid": "L::0::S::B1090519025::S_1090519025_S41::*",
+    "name": "S41",
+    "nameS": "S41",
+    "number": "S41",
+    "icoX": 0,
+    "cls": 1,
+    "oprX": 0,
+    "prodCtx": {
+     "name": "     S41",
+     "num": "893",
+     "line": "S41",
+     "matchId": "41078",
+     "catOut": "S       ",
+     "catOutS": "S-3",
+     "catOutL": "S       ",
+     "catIn": "S-3",
+     "catCode": "0",
+     "admin": "DBS---"
+    },
+    "himIdL": [
+     "HIM_FREETEXT_140805",
+     "HIM_FREETEXT_140558",
+     "HIM_FREETEXT_138697"
+    ]
+   },
+   {
+    "pid": "L::2::Tram::B3041857784::Tram_3041857784_56::*",
+    "name": "56",
+    "nameS": "56",
+    "number": "56",
+    "icoX": 2,
+    "cls": 4,
+    "oprX": 1,
+    "prodCtx": {
+     "name": "      56",
+     "num": "3304",
+     "line": "56",
+     "matchId": "56",
+     "catOut": "Tram    ",
+     "catOutS": "T",
+     "catOutL": "Tram    ",
+     "catIn": "T",
+     "catCode": "2",
+     "admin": "BVT---"
+    },
+    "himIdL": [
+     "HIM_FREETEXT_140433"
+    ]
+   },
+   {
+    "name": "S3",
+    "nameS": "S3",
+    "icoX": 0,
+    "cls": 1,
+    "prodCtx": {
+     "name": "S3",
+     "line": "S3",
+     "lineId": "S3",
+     "catOut": "S       ",
+     "catOutS": "S-7",
+     "catOutL": "S       "
+    }
+   },
+   {
+    "name": "S5",
+    "nameS": "S5",
+    "icoX": 0,
+    "cls": 1,
+    "prodCtx": {
+     "name": "S5",
+     "line": "S5",
+     "lineId": "S5",
+     "catOut": "S       ",
+     "catOutS": "S-7",
+     "catOutL": "S       "
+    }
+   },
+   {
+    "name": "S7",
+    "nameS": "S7",
+    "icoX": 0,
+    "cls": 1,
+    "prodCtx": {
+     "name": "S7",
+     "line": "S7",
+     "lineId": "S7",
+     "catOut": "S       ",
+     "catOutS": "S-7",
+     "catOutL": "S       "
+    }
+   },
+   {
+    "name": "S9",
+    "nameS": "S9",
+    "icoX": 0,
+    "cls": 1,
+    "prodCtx": {
+     "name": "S9",
+     "line": "S9",
+     "lineId": "S9",
+     "catOut": "S       ",
+     "catOutS": "S-7",
+     "catOutL": "S       "
+    }
+   },
+   {
+    "name": "12",
+    "nameS": "12",
+    "icoX": 2,
+    "cls": 4,
+    "prodCtx": {
+     "name": "12",
+     "line": "12",
+     "lineId": "12",
+     "catOut": "Tram    ",
+     "catOutS": "T",
+     "catOutL": "Tram    "
+    }
+   },
+   {
+    "name": "M1",
+    "nameS": "M1",
+    "icoX": 3,
+    "cls": 8,
+    "prodCtx": {
+     "name": "M1",
+     "line": "M1",
+     "lineId": "M1",
+     "catOut": "Bus     ",
+     "catOutS": "B",
+     "catOutL": "Bus     "
+    }
+   },
+   {
+    "name": "N42",
+    "nameS": "N42",
+    "icoX": 3,
+    "cls": 8,
+    "prodCtx": {
+     "name": "N42",
+     "line": "N42",
+     "lineId": "N42",
+     "catOut": "Bus     ",
+     "catOutS": "B",
+     "catOutL": "Bus     "
+    }
+   },
+   {
+    "pid": "L::0::S::B1090519025::S_1090519025_S42::*",
+    "name": "S42",
+    "nameS": "S42",
+    "number": "S42",
+    "icoX": 0,
+    "cls": 1,
+    "oprX": 0,
+    "prodCtx": {
+     "name": "     S42",
+     "num": "1344",
+     "line": "S42",
+     "matchId": "42587",
+     "catOut": "S       ",
+     "catOutS": "S-3",
+     "catOutL": "S       ",
+     "catIn": "S-3",
+     "catCode": "0",
+     "admin": "DBS---"
+    },
+    "himIdL": [
+     "HIM_FREETEXT_140805",
+     "HIM_FREETEXT_140558",
+     "HIM_FREETEXT_138697"
+    ]
+   },
+   {
+    "pid": "L::2::Tram::B3041857784::Tram_3041857784_M5::*",
+    "name": "M5",
+    "nameS": "M5",
+    "number": "M5",
+    "icoX": 2,
+    "cls": 4,
+    "oprX": 1,
+    "prodCtx": {
+     "name": "      M5",
+     "num": "2643",
+     "line": "M5",
+     "matchId": "M5",
+     "catOut": "Tram    ",
+     "catOutS": "T",
+     "catOutL": "Tram    ",
+     "catIn": "T",
+     "catCode": "2",
+     "admin": "BVT---"
+    }
+   },
+   {
+    "pid": "L::0::S::B1090519025::S_1090519025_S41::*",
+    "name": "S41",
+    "nameS": "S41",
+    "number": "S41",
+    "icoX": 0,
+    "cls": 1,
+    "oprX": 0,
+    "prodCtx": {
+     "name": "     S41",
+     "num": "654",
+     "line": "S41",
+     "matchId": "41562",
+     "catOut": "S       ",
+     "catOutS": "S-3",
+     "catOutL": "S       ",
+     "catIn": "S-3",
+     "catCode": "0",
+     "admin": "DBS---"
+    },
+    "himIdL": [
+     "HIM_FREETEXT_140805",
+     "HIM_FREETEXT_140558",
+     "HIM_FREETEXT_138697"
+    ]
+   },
+   {
+    "pid": "L::0::S::B1090519025::S_1090519025_S8::*",
+    "name": "S8",
+    "nameS": "S8",
+    "number": "S8",
+    "icoX": 0,
+    "cls": 1,
+    "oprX": 0,
+    "prodCtx": {
+     "name": "      S8",
+     "num": "25467",
+     "line": "S8",
+     "matchId": "8075",
+     "catOut": "S       ",
+     "catOutS": "S-8",
+     "catOutL": "S       ",
+     "catIn": "S-8",
+     "catCode": "0",
+     "admin": "DBS---"
+    },
+    "himIdL": [
+     "HIM_FREETEXT_138781",
+     "HIM_FREETEXT_140318",
+     "HIM_FREETEXT_140320",
+     "HIM_FREETEXT_140056",
+     "HIM_FREETEXT_140112",
+     "HIM_FREETEXT_140114",
+     "HIM_FREETEXT_140655",
+     "HIM_FREETEXT_138697"
+    ]
+   },
+   {
+    "name": "S1",
+    "nameS": "S1",
+    "icoX": 0,
+    "cls": 1,
+    "prodCtx": {
+     "name": "S1",
+     "line": "S1",
+     "lineId": "S1",
+     "catOut": "S       ",
+     "catOutS": "S-7",
+     "catOutL": "S       "
+    }
+   },
+   {
+    "name": "809",
+    "nameS": "809",
+    "icoX": 3,
+    "cls": 8,
+    "prodCtx": {
+     "name": "809",
+     "line": "809",
+     "lineId": "809",
+     "catOut": "Bus     ",
+     "catOutS": "HVN",
+     "catOutL": "Bus     "
+    }
+   },
+   {
+    "name": "RB20",
+    "nameS": "RB20",
+    "icoX": 6,
+    "cls": 64,
+    "prodCtx": {
+     "name": "RB20",
+     "line": "RB20",
+     "lineId": "RB20",
+     "catOut": "RB      ",
+     "catOutS": "RB",
+     "catOutL": "RB      "
+    }
+   },
+   {
+    "pid": "L::0::S::B1090519025::S_1090519025_S42::*",
+    "name": "S42",
+    "nameS": "S42",
+    "number": "S42",
+    "icoX": 0,
+    "cls": 1,
+    "oprX": 0,
+    "prodCtx": {
+     "name": "     S42",
+     "num": "1698",
+     "line": "S42",
+     "matchId": "42083",
+     "catOut": "S       ",
+     "catOutS": "S-3",
+     "catOutL": "S       ",
+     "catIn": "S-3",
+     "catCode": "0",
+     "admin": "DBS---"
+    },
+    "himIdL": [
+     "HIM_FREETEXT_140805",
+     "HIM_FREETEXT_140558",
+     "HIM_FREETEXT_138697"
+    ]
+   },
+   {
+    "pid": "L::0::S::B1090519025::S_1090519025_S85::*",
+    "name": "S85",
+    "nameS": "S85",
+    "number": "S85",
+    "icoX": 0,
+    "cls": 1,
+    "oprX": 0,
+    "prodCtx": {
+     "name": "     S85",
+     "num": "26542",
+     "line": "S85",
+     "matchId": "85542",
+     "catOut": "S       ",
+     "catOutS": "S12",
+     "catOutL": "S       ",
+     "catIn": "S12",
+     "catCode": "0",
+     "admin": "DBS---"
+    },
+    "himIdL": [
+     "HIM_FREETEXT_138781",
+     "HIM_FREETEXT_140567",
+     "HIM_FREETEXT_138697"
+    ]
+   },
+   {
+    "pid": "L::0::S::B1090519025::S_1090519025_S41::*",
+    "name": "S41",
+    "nameS": "S41",
+    "number": "S41",
+    "icoX": 0,
+    "cls": 1,
+    "oprX": 0,
+    "prodCtx": {
+     "name": "     S41",
+     "num": "889",
+     "line": "S41",
+     "matchId": "41080",
+     "catOut": "S       ",
+     "catOutS": "S-3",
+     "catOutL": "S       ",
+     "catIn": "S-3",
+     "catCode": "0",
+     "admin": "DBS---"
+    },
+    "himIdL": [
+     "HIM_FREETEXT_140805",
+     "HIM_FREETEXT_140558",
+     "HIM_FREETEXT_138697"
+    ]
+   }
+  ]
+ },
+ "match": {
+  "field": "S",
+  "state": "L",
+  "locL": [
+   {
+    "lid": "A=1@O=S Landsberger Allee (Berlin)@X=13455944@Y=52528771@U=86@L=900110004@",
+    "type": "S",
+    "name": "S Landsberger Allee (Berlin)",
+    "icoX": 0,
+    "extId": "900110004",
+    "state": "F",
+    "crd": {
+     "x": 13455944,
+     "y": 52528771,
+     "floor": 0
+    },
+    "pCls": 13,
+    "pRefL": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6,
+     7,
+     8,
+     9,
+     10,
+     11,
+     12,
+     13,
+     14
+    ],
+    "gidL": [
+     "A×de:11000:900110004"
+    ],
+    "chgTime": "000300"
+   },
+   {
+    "lid": "A=1@O=S Südkreuz Bhf (Berlin)@X=13365575@Y=52475465@U=86@L=900058101@",
+    "type": "S",
+    "name": "S Südkreuz Bhf (Berlin)",
+    "icoX": 0,
+    "extId": "900058101",
+    "state": "F",
+    "crd": {
+     "x": 13365575,
+     "y": 52475465,
+     "floor": 0
+    },
+    "pCls": 105,
+    "pRefL": [
+     15,
+     16,
+     17,
+     2,
+     3,
+     18,
+     19,
+     20,
+     21,
+     22,
+     23,
+     24,
+     25,
+     26,
+     27,
+     28,
+     29
+    ],
+    "gidL": [
+     "A×de:11000:900058101"
+    ],
+    "chgTime": "001000"
+   }
+  ]
+ }
+}

@@ -1,0 +1,252 @@
+{
+ "trip": {
+  "id": "1|28761|9|86|27102026",
+  "line": {
+   "name": "179",
+   "product": "bus"
+  },
+  "direction": "U Alt-Mariendorf",
+  "stopovers": [
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900074154",
+     "name": "Gerlinger Str. (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900074153",
+     "name": "Am Rötepfuhl (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900081101",
+     "name": "Quarzweg/Marienfelder Chaussee (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900070457",
+     "name": "Asbestweg (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900070456",
+     "name": "Tropfsteinweg (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900070455",
+     "name": "Grünsteinweg (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900070403",
+     "name": "Sangerhauser Weg (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900070454",
+     "name": "Watzmannweg (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900070401",
+     "name": "Tauernallee/Säntisstr. (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900070452",
+     "name": "Glärnischweg (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900070451",
+     "name": "Pilatusweg (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900070402",
+     "name": "Trabrennbahn (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900070305",
+     "name": "Hundsteinweg (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900070702",
+     "name": "U Alt-Mariendorf (Berlin) [Bus Frieden-/Reißeckstr.]",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900070306",
+     "name": "Forddamm (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   }
+  ]
+ }
+}

@@ -1,0 +1,385 @@
+{
+ "departures": [
+  {
+   "tripId": "1|78797|44|86|27102026",
+   "when": "2026-10-27T13:05:00+01:00",
+   "plannedWhen": "2026-10-27T13:05:00+01:00",
+   "delay": null,
+   "platform": "11",
+   "plannedPlatform": "11",
+   "prognosisType": "prognosed",
+   "direction": "Ringbahn S41 ⟳",
+   "remarks": [
+    {
+     "type": "hint",
+     "code": "FK",
+     "text": "Bicycle conveyance"
+    }
+   ],
+   "stop": {
+    "type": "stop",
+    "id": "900058101",
+    "name": "S Südkreuz Bhf (Berlin)",
+    "products": {
+     "suburban": true,
+     "subway": false,
+     "tram": false,
+     "bus": true,
+     "ferry": false,
+     "express": true,
+     "regional": true
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-s-bahn-s41-s41-a",
+    "name": "S41",
+    "product": "suburban",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|77733|1|86|27102026",
+   "when": "2026-10-27T13:10:00+01:00",
+   "plannedWhen": "2026-10-27T13:10:00+01:00",
+   "delay": null,
+   "platform": "11",
+   "plannedPlatform": "11",
+   "prognosisType": "prognosed",
+   "direction": "Ringbahn S41 ⟳",
+   "remarks": [
+    {
+     "type": "hint",
+     "code": "FK",
+     "text": "Bicycle conveyance"
+    }
+   ],
+   "stop": {
+    "type": "stop",
+    "id": "900058101",
+    "name": "S Südkreuz Bhf (Berlin)",
+    "products": {
+     "suburban": true,
+     "subway": false,
+     "tram": false,
+     "bus": true,
+     "ferry": false,
+     "express": true,
+     "regional": true
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-s-bahn-s41-s41-ai",
+    "name": "S41",
+    "product": "suburban",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|80390|47|86|27102026",
+   "when": "2026-10-27T13:10:00+01:00",
+   "plannedWhen": "2026-10-27T13:10:00+01:00",
+   "delay": null,
+   "platform": "12",
+   "plannedPlatform": "12",
+   "prognosisType": "prognosed",
+   "direction": "Ringbahn S42 ⟲",
+   "remarks": [
+    {
+     "type": "hint",
+     "code": "FK",
+     "text": "Bicycle conveyance"
+    }
+   ],
+   "stop": {
+    "type": "stop",
+    "id": "900058101",
+    "name": "S Südkreuz Bhf (Berlin)",
+    "products": {
+     "suburban": true,
+     "subway": false,
+     "tram": false,
+     "bus": true,
+     "ferry": false,
+     "express": true,
+     "regional": true
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-s-bahn-s42-s42-r",
+    "name": "S42",
+    "product": "suburban",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|78797|45|86|27102026",
+   "when": "2026-10-27T13:15:00+01:00",
+   "plannedWhen": "2026-10-27T13:15:00+01:00",
+   "delay": null,
+   "platform": "11",
+   "plannedPlatform": "11",
+   "prognosisType": "prognosed",
+   "direction": "Ringbahn S41 ⟳",
+   "remarks": [
+    {
+     "type": "hint",
+     "code": "FK",
+     "text": "Bicycle conveyance"
+    }
+   ],
+   "stop": {
+    "type": "stop",
+    "id": "900058101",
+    "name": "S Südkreuz Bhf (Berlin)",
+    "products": {
+     "suburban": true,
+     "subway": false,
+     "tram": false,
+     "bus": true,
+     "ferry": false,
+     "express": true,
+     "regional": true
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-s-bahn-s41-s41-a",
+    "name": "S41",
+    "product": "suburban",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|79446|19|86|27102026",
+   "when": "2026-10-27T13:15:00+01:00",
+   "plannedWhen": "2026-10-27T13:15:00+01:00",
+   "delay": null,
+   "platform": "12",
+   "plannedPlatform": "12",
+   "prognosisType": "prognosed",
+   "direction": "Ringbahn S42 ⟲",
+   "remarks": [
+    {
+     "type": "hint",
+     "code": "FK",
+     "text": "Bicycle conveyance"
+    }
+   ],
+   "stop": {
+    "type": "stop",
+    "id": "900058101",
+    "name": "S Südkreuz Bhf (Berlin)",
+    "products": {
+     "suburban": true,
+     "subway": false,
+     "tram": false,
+     "bus": true,
+     "ferry": false,
+     "express": true,
+     "regional": true
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-s-bahn-s42-s42-ri",
+    "name": "S42",
+    "product": "suburban",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|77739|0|86|27102026",
+   "when": "2026-10-27T13:20:00+01:00",
+   "plannedWhen": "2026-10-27T13:20:00+01:00",
+   "delay": null,
+   "platform": "11",
+   "plannedPlatform": "11",
+   "prognosisType": "prognosed",
+   "direction": "Ringbahn S41 ⟳",
+   "remarks": [
+    {
+     "type": "hint",
+     "code": "FK",
+     "text": "Bicycle conveyance"
+    }
+   ],
+   "stop": {
+    "type": "stop",
+    "id": "900058101",
+    "name": "S Südkreuz Bhf (Berlin)",
+    "products": {
+     "suburban": true,
+     "subway": false,
+     "tram": false,
+     "bus": true,
+     "ferry": false,
+     "express": true,
+     "regional": true
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-s-bahn-s41-s41-ai",
+    "name": "S41",
+    "product": "suburban",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|80390|48|86|27102026",
+   "when": "2026-10-27T13:20:00+01:00",
+   "plannedWhen": "2026-10-27T13:20:00+01:00",
+   "delay": null,
+   "platform": "12",
+   "plannedPlatform": "12",
+   "prognosisType": "prognosed",
+   "direction": "Ringbahn S42 ⟲",
+   "remarks": [
+    {
+     "type": "hint",
+     "code": "FK",
+     "text": "Bicycle conveyance"
+    }
+   ],
+   "stop": {
+    "type": "stop",
+    "id": "900058101",
+    "name": "S Südkreuz Bhf (Berlin)",
+    "products": {
+     "suburban": true,
+     "subway": false,
+     "tram": false,
+     "bus": true,
+     "ferry": false,
+     "express": true,
+     "regional": true
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-s-bahn-s42-s42-r",
+    "name": "S42",
+    "product": "suburban",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|78797|46|86|27102026",
+   "when": "2026-10-27T13:25:00+01:00",
+   "plannedWhen": "2026-10-27T13:25:00+01:00",
+   "delay": null,
+   "platform": "11",
+   "plannedPlatform": "11",
+   "prognosisType": "prognosed",
+   "direction": "Ringbahn S41 ⟳",
+   "remarks": [
+    {
+     "type": "hint",
+     "code": "FK",
+     "text": "Bicycle conveyance"
+    }
+   ],
+   "stop": {
+    "type": "stop",
+    "id": "900058101",
+    "name": "S Südkreuz Bhf (Berlin)",
+    "products": {
+     "suburban": true,
+     "subway": false,
+     "tram": false,
+     "bus": true,
+     "ferry": false,
+     "express": true,
+     "regional": true
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-s-bahn-s41-s41-a",
+    "name": "S41",
+    "product": "suburban",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|77735|0|86|27102026",
+   "when": "2026-10-27T13:30:00+01:00",
+   "plannedWhen": "2026-10-27T13:30:00+01:00",
+   "delay": null,
+   "platform": "11",
+   "plannedPlatform": "11",
+   "prognosisType": "prognosed",
+   "direction": "Ringbahn S41 ⟳",
+   "remarks": [
+    {
+     "type": "hint",
+     "code": "FK",
+     "text": "Bicycle conveyance"
+    }
+   ],
+   "stop": {
+    "type": "stop",
+    "id": "900058101",
+    "name": "S Südkreuz Bhf (Berlin)",
+    "products": {
+     "suburban": true,
+     "subway": false,
+     "tram": false,
+     "bus": true,
+     "ferry": false,
+     "express": true,
+     "regional": true
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-s-bahn-s41-s41-ai",
+    "name": "S41",
+    "product": "suburban",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|80390|49|86|27102026",
+   "when": "2026-10-27T13:30:00+01:00",
+   "plannedWhen": "2026-10-27T13:30:00+01:00",
+   "delay": null,
+   "platform": "12",
+   "plannedPlatform": "12",
+   "prognosisType": "prognosed",
+   "direction": "Ringbahn S42 ⟲",
+   "remarks": [
+    {
+     "type": "hint",
+     "code": "FK",
+     "text": "Bicycle conveyance"
+    }
+   ],
+   "stop": {
+    "type": "stop",
+    "id": "900058101",
+    "name": "S Südkreuz Bhf (Berlin)",
+    "products": {
+     "suburban": true,
+     "subway": false,
+     "tram": false,
+     "bus": true,
+     "ferry": false,
+     "express": true,
+     "regional": true
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-s-bahn-s42-s42-r",
+    "name": "S42",
+    "product": "suburban",
+    "mode": "train"
+   }
+  }
+ ],
+ "realtimeDataUpdatedAt": 1793102558
+}

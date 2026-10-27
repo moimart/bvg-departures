@@ -1,0 +1,156 @@
+{
+ "trip": {
+  "id": "1|45908|24|86|27102026",
+  "line": {
+   "name": "X76",
+   "product": "bus"
+  },
+  "direction": "Lichtenrade, Nahariyastr.",
+  "stopovers": [
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900070702",
+     "name": "U Alt-Mariendorf (Berlin) [Bus Frieden-/Reißeckstr.]",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900070401",
+     "name": "Tauernallee/Säntisstr. (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900074101",
+     "name": "Mariendorfer Damm/Buckower Chaussee (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900074103",
+     "name": "Goethestr./Potsdamer Str. (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900074205",
+     "name": "Lichtenrader Damm/Barnetstr. (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900074206",
+     "name": "Im Domstift/Groß-Ziethener Str. (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900074253",
+     "name": "Volkspark Lichtenrade (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900074254",
+     "name": "Rennsteig (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900074207",
+     "name": "Nahariyastr. (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   }
+  ]
+ }
+}

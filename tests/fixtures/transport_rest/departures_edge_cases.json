@@ -1,0 +1,178 @@
+{
+ "departures": [
+  {
+   "tripId": "1|41616|24|86|27102026",
+   "when": "2026-10-27T13:13:00+01:00",
+   "plannedWhen": "2026-10-27T13:13:00+01:00",
+   "delay": 0,
+   "platform": null,
+   "plannedPlatform": null,
+   "prognosisType": "prognosed",
+   "direction": "S Lichtenrade",
+   "remarks": [],
+   "stop": {
+    "type": "stop",
+    "id": "900070401",
+    "name": "Tauernallee/Säntisstr. (Berlin)",
+    "products": {
+     "suburban": false,
+     "subway": false,
+     "tram": false,
+     "bus": true,
+     "ferry": false,
+     "express": false,
+     "regional": false
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-bus-m76",
+    "name": "M76",
+    "product": "bus",
+    "mode": "bus"
+   }
+  },
+  {
+   "tripId": "1|45908|24|86|27102026",
+   "when": "2026-10-27T13:10:00+01:00",
+   "plannedWhen": "2026-10-27T13:06:00+01:00",
+   "delay": 240,
+   "platform": null,
+   "plannedPlatform": null,
+   "prognosisType": "prognosed",
+   "direction": "Lichtenrade, Nahariyastr.",
+   "remarks": [],
+   "stop": {
+    "type": "stop",
+    "id": "900070401",
+    "name": "Tauernallee/Säntisstr. (Berlin)",
+    "products": {
+     "suburban": false,
+     "subway": false,
+     "tram": false,
+     "bus": true,
+     "ferry": false,
+     "express": false,
+     "regional": false
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-bus-x76",
+    "name": "X76",
+    "product": "bus",
+    "mode": "bus"
+   }
+  },
+  {
+   "tripId": "1|28761|9|86|27102026",
+   "when": null,
+   "plannedWhen": "2026-10-27T13:15:00+01:00",
+   "delay": null,
+   "platform": null,
+   "plannedPlatform": null,
+   "prognosisType": "prognosed",
+   "direction": "U Alt-Mariendorf",
+   "remarks": [
+    {
+     "type": "warning",
+     "summary": "Fahrt fällt aus",
+     "text": "Diese Fahrt fällt aus."
+    }
+   ],
+   "stop": {
+    "type": "stop",
+    "id": "900070401",
+    "name": "Tauernallee/Säntisstr. (Berlin)",
+    "products": {
+     "suburban": false,
+     "subway": false,
+     "tram": false,
+     "bus": true,
+     "ferry": false,
+     "express": false,
+     "regional": false
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-bus-179",
+    "name": "179",
+    "product": "bus",
+    "mode": "bus"
+   },
+   "cancelled": true
+  },
+  {
+   "tripId": "1|46925|2|86|27102026",
+   "when": "2026-10-27T13:20:00+01:00",
+   "plannedWhen": "2026-10-27T13:20:00+01:00",
+   "delay": null,
+   "platform": null,
+   "plannedPlatform": null,
+   "prognosisType": null,
+   "direction": "U Alt-Mariendorf",
+   "remarks": [],
+   "stop": {
+    "type": "stop",
+    "id": "900070401",
+    "name": "Tauernallee/Säntisstr. (Berlin)",
+    "products": {
+     "suburban": false,
+     "subway": false,
+     "tram": false,
+     "bus": true,
+     "ferry": false,
+     "express": false,
+     "regional": false
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-bus-x71",
+    "name": "X71",
+    "product": "bus",
+    "mode": "bus"
+   }
+  },
+  {
+   "tripId": "1|78797|44|86|27102026",
+   "when": "2026-10-27T13:05:00+01:00",
+   "plannedWhen": "2026-10-27T13:05:00+01:00",
+   "delay": null,
+   "platform": "11",
+   "plannedPlatform": "12",
+   "prognosisType": "prognosed",
+   "direction": "Ringbahn S41 ⟳",
+   "remarks": [
+    {
+     "type": "hint",
+     "code": "FK",
+     "text": "Bicycle conveyance"
+    }
+   ],
+   "stop": {
+    "type": "stop",
+    "id": "900058101",
+    "name": "S Südkreuz Bhf (Berlin)",
+    "products": {
+     "suburban": true,
+     "subway": false,
+     "tram": false,
+     "bus": true,
+     "ferry": false,
+     "express": true,
+     "regional": true
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-s-bahn-s41-s41-a",
+    "name": "S41",
+    "product": "suburban",
+    "mode": "train"
+   }
+  }
+ ],
+ "realtimeDataUpdatedAt": 1793102737
+}

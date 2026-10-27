@@ -1,0 +1,16 @@
+[
+ {
+  "type": "stop",
+  "id": "900070401",
+  "name": "Tauernallee/Säntisstr. (Berlin)",
+  "products": {
+   "suburban": false,
+   "subway": false,
+   "tram": false,
+   "bus": true,
+   "ferry": false,
+   "express": false,
+   "regional": false
+  }
+ }
+]

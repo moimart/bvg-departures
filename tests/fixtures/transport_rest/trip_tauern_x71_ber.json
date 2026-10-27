@@ -1,0 +1,204 @@
+{
+ "trip": {
+  "id": "1|46854|15|86|27102026",
+  "line": {
+   "name": "X71",
+   "product": "bus"
+  },
+  "direction": "Flughafen BER",
+  "stopovers": [
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900070702",
+     "name": "U Alt-Mariendorf (Berlin) [Bus Frieden-/Reißeckstr.]",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900070401",
+     "name": "Tauernallee/Säntisstr. (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900074101",
+     "name": "Mariendorfer Damm/Buckower Chaussee (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900081101",
+     "name": "Quarzweg/Marienfelder Chaussee (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900081251",
+     "name": "Rufacher Weg (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900081201",
+     "name": "Alt-Buckow (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900082202",
+     "name": "U Johannisthaler Chaussee (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": true,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900082205",
+     "name": "Lipschitzallee/Fritz-Erler-Allee (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900083181",
+     "name": "Neuköllner Str./Zwickauer Damm (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900083201",
+     "name": "U Rudow (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": true,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900083351",
+     "name": "Lieselotte-Berger-Str. (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900260009",
+     "name": "Flughafen BER",
+     "products": {
+      "suburban": true,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": true,
+      "regional": true
+     }
+    }
+   }
+  ]
+ }
+}

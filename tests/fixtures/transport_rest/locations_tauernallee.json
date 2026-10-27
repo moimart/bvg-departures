@@ -1,0 +1,360 @@
+[
+ {
+  "type": "stop",
+  "id": "900070401",
+  "name": "Tauernallee/Säntisstr. (Berlin)",
+  "products": {
+   "suburban": false,
+   "subway": false,
+   "tram": false,
+   "bus": true,
+   "ferry": false,
+   "express": false,
+   "regional": false
+  },
+  "lines": [
+   {
+    "type": "line",
+    "name": "179",
+    "product": "bus"
+   },
+   {
+    "type": "line",
+    "name": "M76",
+    "product": "bus"
+   },
+   {
+    "type": "line",
+    "name": "N81",
+    "product": "bus"
+   },
+   {
+    "type": "line",
+    "name": "X71",
+    "product": "bus"
+   },
+   {
+    "type": "line",
+    "name": "X76",
+    "product": "bus"
+   }
+  ]
+ },
+ {
+  "type": "stop",
+  "id": "900350683",
+  "name": "Schönow (BAR), Bernauer Allee",
+  "products": {
+   "suburban": false,
+   "subway": false,
+   "tram": false,
+   "bus": true,
+   "ferry": false,
+   "express": false,
+   "regional": false
+  },
+  "lines": [
+   {
+    "type": "line",
+    "name": "868",
+    "product": "bus"
+   },
+   {
+    "type": "line",
+    "name": "900",
+    "product": "bus"
+   },
+   {
+    "type": "line",
+    "name": "903",
+    "product": "bus"
+   }
+  ]
+ },
+ {
+  "type": "stop",
+  "id": "900110002",
+  "name": "S Prenzlauer Allee (Berlin)",
+  "products": {
+   "suburban": true,
+   "subway": false,
+   "tram": true,
+   "bus": true,
+   "ferry": false,
+   "express": false,
+   "regional": false
+  },
+  "lines": [
+   {
+    "type": "line",
+    "name": "S8",
+    "product": "suburban"
+   },
+   {
+    "type": "line",
+    "name": "S8",
+    "product": "suburban"
+   },
+   {
+    "type": "line",
+    "name": "S41",
+    "product": "suburban"
+   },
+   {
+    "type": "line",
+    "name": "S41",
+    "product": "suburban"
+   },
+   {
+    "type": "line",
+    "name": "S41",
+    "product": "suburban"
+   },
+   {
+    "type": "line",
+    "name": "S41",
+    "product": "suburban"
+   },
+   {
+    "type": "line",
+    "name": "S42",
+    "product": "suburban"
+   },
+   {
+    "type": "line",
+    "name": "S42",
+    "product": "suburban"
+   },
+   {
+    "type": "line",
+    "name": "S85",
+    "product": "suburban"
+   },
+   {
+    "type": "line",
+    "name": "S85",
+    "product": "suburban"
+   },
+   {
+    "type": "line",
+    "name": "M2",
+    "product": "tram"
+   },
+   {
+    "type": "line",
+    "name": "156",
+    "product": "bus"
+   },
+   {
+    "type": "line",
+    "name": "S41",
+    "product": "bus"
+   },
+   {
+    "type": "line",
+    "name": "S42",
+    "product": "bus"
+   }
+  ]
+ },
+ {
+  "type": "stop",
+  "id": "900096404",
+  "name": "Alt-Wittenau/Roedernallee (Berlin)",
+  "products": {
+   "suburban": false,
+   "subway": false,
+   "tram": false,
+   "bus": true,
+   "ferry": false,
+   "express": false,
+   "regional": false
+  },
+  "lines": [
+   {
+    "type": "line",
+    "name": "120",
+    "product": "bus"
+   },
+   {
+    "type": "line",
+    "name": "N20",
+    "product": "bus"
+   }
+  ]
+ },
+ {
+  "type": "stop",
+  "id": "900350858",
+  "name": "Bernau, Sonnenallee",
+  "products": {
+   "suburban": false,
+   "subway": false,
+   "tram": false,
+   "bus": true,
+   "ferry": false,
+   "express": false,
+   "regional": false
+  },
+  "lines": [
+   {
+    "type": "line",
+    "name": "868",
+    "product": "bus"
+   }
+  ]
+ },
+ {
+  "type": "stop",
+  "id": "900084102",
+  "name": "Roedernallee/Flottenstr. (Berlin)",
+  "products": {
+   "suburban": false,
+   "subway": false,
+   "tram": false,
+   "bus": true,
+   "ferry": false,
+   "express": false,
+   "regional": false
+  },
+  "lines": [
+   {
+    "type": "line",
+    "name": "120",
+    "product": "bus"
+   },
+   {
+    "type": "line",
+    "name": "320",
+    "product": "bus"
+   },
+   {
+    "type": "line",
+    "name": "N20",
+    "product": "bus"
+   }
+  ]
+ },
+ {
+  "type": "stop",
+  "id": "900086160",
+  "name": "U Lindauer Allee (Berlin)",
+  "products": {
+   "suburban": false,
+   "subway": true,
+   "tram": false,
+   "bus": true,
+   "ferry": false,
+   "express": false,
+   "regional": false
+  },
+  "lines": [
+   {
+    "type": "line",
+    "name": "U8",
+    "product": "subway"
+   },
+   {
+    "type": "line",
+    "name": "322",
+    "product": "bus"
+   },
+   {
+    "type": "line",
+    "name": "N8",
+    "product": "bus"
+   }
+  ]
+ },
+ {
+  "type": "stop",
+  "id": "900077106",
+  "name": "S Sonnenallee (Berlin)",
+  "products": {
+   "suburban": true,
+   "subway": false,
+   "tram": false,
+   "bus": true,
+   "ferry": false,
+   "express": false,
+   "regional": false
+  },
+  "lines": [
+   {
+    "type": "line",
+    "name": "S8",
+    "product": "suburban"
+   },
+   {
+    "type": "line",
+    "name": "S41",
+    "product": "suburban"
+   },
+   {
+    "type": "line",
+    "name": "S41",
+    "product": "suburban"
+   },
+   {
+    "type": "line",
+    "name": "S41",
+    "product": "suburban"
+   },
+   {
+    "type": "line",
+    "name": "S41",
+    "product": "suburban"
+   },
+   {
+    "type": "line",
+    "name": "S42",
+    "product": "suburban"
+   },
+   {
+    "type": "line",
+    "name": "S42",
+    "product": "suburban"
+   },
+   {
+    "type": "line",
+    "name": "S42",
+    "product": "suburban"
+   },
+   {
+    "type": "line",
+    "name": "S42",
+    "product": "suburban"
+   },
+   {
+    "type": "line",
+    "name": "171",
+    "product": "bus"
+   },
+   {
+    "type": "line",
+    "name": "M41",
+    "product": "bus"
+   },
+   {
+    "type": "line",
+    "name": "N77",
+    "product": "bus"
+   },
+   {
+    "type": "line",
+    "name": "S41",
+    "product": "bus"
+   },
+   {
+    "type": "line",
+    "name": "S42",
+    "product": "bus"
+   },
+   {
+    "type": "line",
+    "name": "S46",
+    "product": "bus"
+   }
+  ]
+ }
+]

@@ -1,0 +1,540 @@
+{
+ "trip": {
+  "id": "1|41668|14|86|27102026",
+  "line": {
+   "name": "M76",
+   "product": "bus"
+  },
+  "direction": "U Walther-Schreiber-Platz via U Alt-Mariendorf",
+  "stopovers": [
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900074293",
+     "name": "Wünsdorfer Str./Blohmstr. (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900074702",
+     "name": "Prinzessinnenstr. (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900074201",
+     "name": "S Lichtenrade (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900074231",
+     "name": "Rehagener Str./Goltzstr. (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900074208",
+     "name": "Goltzstr./Lichtenrader Damm (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900074256",
+     "name": "Lichtenrader Damm 254 (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900074205",
+     "name": "Lichtenrader Damm/Barnetstr. (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900074105",
+     "name": "Grimmstr. (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900074103",
+     "name": "Goethestr./Potsdamer Str. (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900074152",
+     "name": "Raabestr. (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900074101",
+     "name": "Mariendorfer Damm/Buckower Chaussee (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900070453",
+     "name": "Sandsteinweg (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900070405",
+     "name": "Ankogelweg (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900070401",
+     "name": "Tauernallee/Säntisstr. (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900070452",
+     "name": "Glärnischweg (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900070451",
+     "name": "Pilatusweg (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900070402",
+     "name": "Trabrennbahn (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900070305",
+     "name": "Hundsteinweg (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900070702",
+     "name": "U Alt-Mariendorf (Berlin) [Bus Frieden-/Reißeckstr.]",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900070306",
+     "name": "Forddamm (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900070252",
+     "name": "Prühßstr. (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900070201",
+     "name": "Gersdorfstr./Kaiserstr. (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900068352",
+     "name": "Gersdorfstr./Kurfürstenstr. (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900068304",
+     "name": "Röblingstr./Attilastr. (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900058153",
+     "name": "Friedhof Röblingstr. (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900058106",
+     "name": "Röblingstr./Arnulfstr. (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900058102",
+     "name": "S Priesterweg (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900060104",
+     "name": "Insulaner (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900060105",
+     "name": "Auguste-Viktoria-Klinikum Süd (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900063154",
+     "name": "Cranachstr. (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900063103",
+     "name": "Knausplatz (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900063101",
+     "name": "S Feuerbachstr. (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900061101",
+     "name": "U Walther-Schreiber-Platz (Berlin)",
+     "products": {
+      "suburban": false,
+      "subway": true,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   }
+  ]
+ }
+}

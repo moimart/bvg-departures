@@ -1,0 +1,170 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Haltestelle suchen",
+        "description": "Gib einen Teil des Haltestellennamens ein, z. B. \"Alt-Mariendorf\".",
+        "data": {
+          "stop_name": "Haltestelle"
+        }
+      },
+      "pick_stop": {
+        "title": "Haltestelle wählen",
+        "description": "Mehrere Haltestellen passen. Jede ist mit den Linien aufgeführt, die dort halten.",
+        "data": {
+          "stop": "Haltestelle"
+        }
+      },
+      "first_line": {
+        "title": "Erste Linie",
+        "description": "Wähle eine Linie ab {stop}. Leer lassen, um Linien später über die Karte der Haltestelle hinzuzufügen.",
+        "data": {
+          "line": "Linie"
+        }
+      },
+      "direction": {
+        "title": "Richtung",
+        "description": "Wohin fährt die {line}? Richtungen werden über die nächste Haltestelle (in Klammern) unterschieden.",
+        "data": {
+          "direction": "Richtung"
+        }
+      },
+      "details": {
+        "title": "Details",
+        "description": "{line} {direction} ab {stop}.",
+        "data": {
+          "name": "Name",
+          "lead_min": "Fußweg",
+          "include_cancelled": "Ausgefallene Fahrten anzeigen"
+        },
+        "data_description": {
+          "lead_min": "Abfahrten, die früher sind, werden übersprungen."
+        }
+      }
+    },
+    "error": {
+      "no_stops_found": "Keine Haltestelle gefunden. Versuche eine andere Schreibweise.",
+      "cannot_connect": "Der Abfahrtsdienst ist nicht erreichbar. Versuche es gleich noch einmal.",
+      "no_live_departures": "Diese Linie fährt in den nächsten 2 Stunden nicht, daher lassen sich ihre Richtungen nicht ermitteln. Absenden, um es später erneut zu versuchen."
+    },
+    "abort": {
+      "already_configured": "Das ist bereits eingerichtet.",
+      "cannot_connect": "Der Abfahrtsdienst ist nicht erreichbar. Versuche es gleich noch einmal.",
+      "no_lines": "An dieser Haltestelle wurden keine Linien gefunden."
+    }
+  },
+  "config_subentries": {
+    "departure": {
+      "entry_type": "Abfahrt",
+      "initiate_flow": {
+        "user": "Abfahrt hinzufügen"
+      },
+      "step": {
+        "line": {
+          "title": "Linie",
+          "description": "Welche Linie an {stop}?",
+          "data": {
+            "line": "Linie"
+          }
+        },
+        "direction": {
+          "title": "Richtung",
+          "description": "Wohin fährt die {line}? Richtungen werden über die nächste Haltestelle (in Klammern) unterschieden.",
+          "data": {
+            "direction": "Richtung"
+          }
+        },
+        "details": {
+          "title": "Details",
+          "description": "{line} {direction} ab {stop}.",
+          "data": {
+            "name": "Name",
+            "lead_min": "Fußweg",
+            "include_cancelled": "Ausgefallene Fahrten anzeigen"
+          },
+          "data_description": {
+            "lead_min": "Abfahrten, die früher sind, werden übersprungen."
+          }
+        },
+        "reconfigure": {
+          "title": "Abfahrt bearbeiten",
+          "description": "{line} → {direction} ab {stop}. Um Linie oder Richtung zu ändern, diese Abfahrt löschen und neu anlegen.",
+          "data": {
+            "name": "Name",
+            "lead_min": "Fußweg",
+            "include_cancelled": "Ausgefallene Fahrten anzeigen"
+          },
+          "data_description": {
+            "lead_min": "Abfahrten, die früher sind, werden übersprungen."
+          },
+          "sections": {
+            "advanced": {
+              "name": "Erweitert: nach Fahrtziel filtern",
+              "description": "Nur für Linien, die sich vor der nächsten Haltestelle verzweigen.",
+              "data": {
+                "match_by_headsign": "Nach Fahrtziel statt nächster Haltestelle filtern",
+                "headsigns": "Erlaubte Fahrtziele"
+              }
+            }
+          }
+        }
+      },
+      "error": {
+        "no_live_departures": "Diese Linie fährt in den nächsten 2 Stunden nicht, daher lassen sich ihre Richtungen nicht ermitteln. Absenden, um es später erneut zu versuchen.",
+        "headsigns_required": "Wähle mindestens ein Fahrtziel.",
+        "headsign_only": "Diese Abfahrt filtert nach Fahrtziel, weil die nächste Haltestelle nicht ermittelt werden konnte. Lass die Fahrtziel-Filterung an."
+      },
+      "abort": {
+        "already_configured": "Das ist bereits eingerichtet.",
+        "cannot_connect": "Der Abfahrtsdienst ist nicht erreichbar. Versuche es gleich noch einmal.",
+        "no_lines": "An dieser Haltestelle wurden keine Linien gefunden."
+      }
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Einstellungen der Haltestelle",
+        "data": {
+          "backend": "Datenquelle",
+          "update_interval_s": "Aktualisierungsintervall",
+          "window_min": "Vorschauzeitraum"
+        }
+      }
+    }
+  },
+  "selector": {
+    "backend": {
+      "options": {
+        "auto": "Automatisch (transport.rest, BVG HAFAS als Ausweichquelle)",
+        "transport_rest": "Nur transport.rest",
+        "mgate": "Nur BVG HAFAS"
+      }
+    }
+  },
+  "entity": {
+    "sensor": {
+      "minutes": {
+        "name": "Minuten bis zur Abfahrt"
+      },
+      "delay": {
+        "name": "Verspätung"
+      },
+      "following": {
+        "name": "Übernächste Abfahrt"
+      }
+    }
+  },
+  "issues": {
+    "api_unreachable": {
+      "title": "BVG-Abfahrten für {stop} nicht erreichbar",
+      "description": "Seit über 15 Minuten konnten für {stop} keine Abfahrten abgerufen werden. Die Sensoren zählen mit zwischengespeicherten Daten weiter, bis diese aufgebraucht sind. Die Meldung verschwindet, sobald der Dienst wieder antwortet."
+    }
+  },
+  "services": {
+    "refresh": {
+      "name": "Abfahrten aktualisieren",
+      "description": "Ruft die Abfahrten der gewählten Haltestellen sofort ab (weiterhin mit Ratenbegrenzung)."
+    }
+  }
+}

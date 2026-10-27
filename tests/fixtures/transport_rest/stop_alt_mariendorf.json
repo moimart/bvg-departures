@@ -1,0 +1,61 @@
+{
+ "type": "station",
+ "id": "900070301",
+ "name": "U Alt-Mariendorf (Berlin)",
+ "products": {
+  "suburban": false,
+  "subway": true,
+  "tram": false,
+  "bus": true,
+  "ferry": false,
+  "express": false,
+  "regional": false
+ },
+ "lines": [
+  {
+   "type": "line",
+   "name": "U6",
+   "product": "subway"
+  },
+  {
+   "type": "line",
+   "name": "179",
+   "product": "bus"
+  },
+  {
+   "type": "line",
+   "name": "181",
+   "product": "bus"
+  },
+  {
+   "type": "line",
+   "name": "277",
+   "product": "bus"
+  },
+  {
+   "type": "line",
+   "name": "M76",
+   "product": "bus"
+  },
+  {
+   "type": "line",
+   "name": "M77",
+   "product": "bus"
+  },
+  {
+   "type": "line",
+   "name": "N6",
+   "product": "bus"
+  },
+  {
+   "type": "line",
+   "name": "X71",
+   "product": "bus"
+  },
+  {
+   "type": "line",
+   "name": "X76",
+   "product": "bus"
+  }
+ ]
+}

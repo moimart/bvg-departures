@@ -1,0 +1,6 @@
+refresh:
+  target:
+    entity:
+      integration: bvg_departures
+    device:
+      integration: bvg_departures

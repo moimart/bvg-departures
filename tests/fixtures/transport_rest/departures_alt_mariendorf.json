@@ -1,0 +1,1848 @@
+{
+ "departures": [
+  {
+   "tripId": "1|41668|13|86|27102026",
+   "when": "2026-10-27T13:05:00+01:00",
+   "plannedWhen": "2026-10-27T13:07:00+01:00",
+   "delay": -120,
+   "platform": "Pos. 3",
+   "plannedPlatform": "Pos. 3",
+   "prognosisType": "prognosed",
+   "direction": "U Walther-Schreiber-Platz via S Priesterweg",
+   "remarks": [],
+   "stop": {
+    "type": "stop",
+    "id": "900070702",
+    "name": "U Alt-Mariendorf (Berlin) [Bus Frieden-/Reißeckstr.]",
+    "products": {
+     "suburban": false,
+     "subway": false,
+     "tram": false,
+     "bus": true,
+     "ferry": false,
+     "express": false,
+     "regional": false
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-bus-m76",
+    "name": "M76",
+    "product": "bus",
+    "mode": "bus"
+   }
+  },
+  {
+   "tripId": "1|52645|10|86|27102026",
+   "when": "2026-10-27T13:06:00+01:00",
+   "plannedWhen": "2026-10-27T13:06:00+01:00",
+   "delay": 0,
+   "platform": "2",
+   "plannedPlatform": "2",
+   "prognosisType": "prognosed",
+   "direction": "Kurt-Schumacher-Platz",
+   "remarks": [
+    {
+     "type": "hint",
+     "code": "FK",
+     "text": "Bicycle conveyance"
+    },
+    {
+     "type": "warning",
+     "summary": "Elevator out of service",
+     "text": "The lift at U Alt-Mariendorf station (street <> intermediate level) will be repaired shortly."
+    }
+   ],
+   "stop": {
+    "type": "stop",
+    "id": "900070301",
+    "name": "U Alt-Mariendorf (Berlin)",
+    "products": {
+     "suburban": false,
+     "subway": true,
+     "tram": false,
+     "bus": false,
+     "ferry": false,
+     "express": false,
+     "regional": false
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-u-bahn-u6",
+    "name": "U6",
+    "product": "subway",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|41616|24|86|27102026",
+   "when": "2026-10-27T13:07:00+01:00",
+   "plannedWhen": "2026-10-27T13:06:00+01:00",
+   "delay": 60,
+   "platform": "Pos. 4",
+   "plannedPlatform": "Pos. 4",
+   "prognosisType": "prognosed",
+   "direction": "S Lichtenrade",
+   "remarks": [],
+   "stop": {
+    "type": "stop",
+    "id": "900070702",
+    "name": "U Alt-Mariendorf (Berlin) [Bus Frieden-/Reißeckstr.]",
+    "products": {
+     "suburban": false,
+     "subway": false,
+     "tram": false,
+     "bus": true,
+     "ferry": false,
+     "express": false,
+     "regional": false
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-bus-m76",
+    "name": "M76",
+    "product": "bus",
+    "mode": "bus"
+   }
+  },
+  {
+   "tripId": "1|52645|11|86|27102026",
+   "when": "2026-10-27T13:11:00+01:00",
+   "plannedWhen": "2026-10-27T13:11:00+01:00",
+   "delay": 0,
+   "platform": "2",
+   "plannedPlatform": "2",
+   "prognosisType": "prognosed",
+   "direction": "Kurt-Schumacher-Platz",
+   "remarks": [
+    {
+     "type": "hint",
+     "code": "FK",
+     "text": "Bicycle conveyance"
+    },
+    {
+     "type": "warning",
+     "summary": "Elevator out of service",
+     "text": "The lift at U Alt-Mariendorf station (street <> intermediate level) will be repaired shortly."
+    }
+   ],
+   "stop": {
+    "type": "stop",
+    "id": "900070301",
+    "name": "U Alt-Mariendorf (Berlin)",
+    "products": {
+     "suburban": false,
+     "subway": true,
+     "tram": false,
+     "bus": false,
+     "ferry": false,
+     "express": false,
+     "regional": false
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-u-bahn-u6",
+    "name": "U6",
+    "product": "subway",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|41616|25|86|27102026",
+   "when": "2026-10-27T13:14:00+01:00",
+   "plannedWhen": "2026-10-27T13:16:00+01:00",
+   "delay": -120,
+   "platform": "Pos. 4",
+   "plannedPlatform": "Pos. 4",
+   "prognosisType": "prognosed",
+   "direction": "S Lichtenrade",
+   "remarks": [],
+   "stop": {
+    "type": "stop",
+    "id": "900070702",
+    "name": "U Alt-Mariendorf (Berlin) [Bus Frieden-/Reißeckstr.]",
+    "products": {
+     "suburban": false,
+     "subway": false,
+     "tram": false,
+     "bus": true,
+     "ferry": false,
+     "express": false,
+     "regional": false
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-bus-m76",
+    "name": "M76",
+    "product": "bus",
+    "mode": "bus"
+   }
+  },
+  {
+   "tripId": "1|41668|14|86|27102026",
+   "when": "2026-10-27T13:15:00+01:00",
+   "plannedWhen": "2026-10-27T13:17:00+01:00",
+   "delay": -120,
+   "platform": "Pos. 3",
+   "plannedPlatform": "Pos. 3",
+   "prognosisType": "prognosed",
+   "direction": "U Walther-Schreiber-Platz via S Priesterweg",
+   "remarks": [],
+   "stop": {
+    "type": "stop",
+    "id": "900070702",
+    "name": "U Alt-Mariendorf (Berlin) [Bus Frieden-/Reißeckstr.]",
+    "products": {
+     "suburban": false,
+     "subway": false,
+     "tram": false,
+     "bus": true,
+     "ferry": false,
+     "express": false,
+     "regional": false
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-bus-m76",
+    "name": "M76",
+    "product": "bus",
+    "mode": "bus"
+   }
+  },
+  {
+   "tripId": "1|52645|12|86|27102026",
+   "when": "2026-10-27T13:16:00+01:00",
+   "plannedWhen": "2026-10-27T13:16:00+01:00",
+   "delay": 0,
+   "platform": "2",
+   "plannedPlatform": "2",
+   "prognosisType": "prognosed",
+   "direction": "Kurt-Schumacher-Platz",
+   "remarks": [
+    {
+     "type": "hint",
+     "code": "FK",
+     "text": "Bicycle conveyance"
+    },
+    {
+     "type": "warning",
+     "summary": "Elevator out of service",
+     "text": "The lift at U Alt-Mariendorf station (street <> intermediate level) will be repaired shortly."
+    }
+   ],
+   "stop": {
+    "type": "stop",
+    "id": "900070301",
+    "name": "U Alt-Mariendorf (Berlin)",
+    "products": {
+     "suburban": false,
+     "subway": true,
+     "tram": false,
+     "bus": false,
+     "ferry": false,
+     "express": false,
+     "regional": false
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-u-bahn-u6",
+    "name": "U6",
+    "product": "subway",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|52645|13|86|27102026",
+   "when": "2026-10-27T13:21:00+01:00",
+   "plannedWhen": "2026-10-27T13:21:00+01:00",
+   "delay": 0,
+   "platform": "2",
+   "plannedPlatform": "2",
+   "prognosisType": "prognosed",
+   "direction": "Kurt-Schumacher-Platz",
+   "remarks": [
+    {
+     "type": "hint",
+     "code": "FK",
+     "text": "Bicycle conveyance"
+    },
+    {
+     "type": "warning",
+     "summary": "Elevator out of service",
+     "text": "The lift at U Alt-Mariendorf station (street <> intermediate level) will be repaired shortly."
+    }
+   ],
+   "stop": {
+    "type": "stop",
+    "id": "900070301",
+    "name": "U Alt-Mariendorf (Berlin)",
+    "products": {
+     "suburban": false,
+     "subway": true,
+     "tram": false,
+     "bus": false,
+     "ferry": false,
+     "express": false,
+     "regional": false
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-u-bahn-u6",
+    "name": "U6",
+    "product": "subway",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|41616|26|86|27102026",
+   "when": "2026-10-27T13:26:00+01:00",
+   "plannedWhen": "2026-10-27T13:26:00+01:00",
+   "delay": 0,
+   "platform": "Pos. 4",
+   "plannedPlatform": "Pos. 4",
+   "prognosisType": "prognosed",
+   "direction": "S Lichtenrade",
+   "remarks": [],
+   "stop": {
+    "type": "stop",
+    "id": "900070702",
+    "name": "U Alt-Mariendorf (Berlin) [Bus Frieden-/Reißeckstr.]",
+    "products": {
+     "suburban": false,
+     "subway": false,
+     "tram": false,
+     "bus": true,
+     "ferry": false,
+     "express": false,
+     "regional": false
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-bus-m76",
+    "name": "M76",
+    "product": "bus",
+    "mode": "bus"
+   }
+  },
+  {
+   "tripId": "1|52645|14|86|27102026",
+   "when": "2026-10-27T13:26:00+01:00",
+   "plannedWhen": "2026-10-27T13:26:00+01:00",
+   "delay": 0,
+   "platform": "2",
+   "plannedPlatform": "2",
+   "prognosisType": "prognosed",
+   "direction": "Kurt-Schumacher-Platz",
+   "remarks": [
+    {
+     "type": "hint",
+     "code": "FK",
+     "text": "Bicycle conveyance"
+    },
+    {
+     "type": "warning",
+     "summary": "Elevator out of service",
+     "text": "The lift at U Alt-Mariendorf station (street <> intermediate level) will be repaired shortly."
+    }
+   ],
+   "stop": {
+    "type": "stop",
+    "id": "900070301",
+    "name": "U Alt-Mariendorf (Berlin)",
+    "products": {
+     "suburban": false,
+     "subway": true,
+     "tram": false,
+     "bus": false,
+     "ferry": false,
+     "express": false,
+     "regional": false
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-u-bahn-u6",
+    "name": "U6",
+    "product": "subway",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|41668|15|86|27102026",
+   "when": "2026-10-27T13:27:00+01:00",
+   "plannedWhen": "2026-10-27T13:27:00+01:00",
+   "delay": 0,
+   "platform": "Pos. 3",
+   "plannedPlatform": "Pos. 3",
+   "prognosisType": "prognosed",
+   "direction": "U Walther-Schreiber-Platz via S Priesterweg",
+   "remarks": [],
+   "stop": {
+    "type": "stop",
+    "id": "900070702",
+    "name": "U Alt-Mariendorf (Berlin) [Bus Frieden-/Reißeckstr.]",
+    "products": {
+     "suburban": false,
+     "subway": false,
+     "tram": false,
+     "bus": true,
+     "ferry": false,
+     "express": false,
+     "regional": false
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-bus-m76",
+    "name": "M76",
+    "product": "bus",
+    "mode": "bus"
+   }
+  },
+  {
+   "tripId": "1|52645|15|86|27102026",
+   "when": "2026-10-27T13:31:00+01:00",
+   "plannedWhen": "2026-10-27T13:31:00+01:00",
+   "delay": 0,
+   "platform": "2",
+   "plannedPlatform": "2",
+   "prognosisType": "prognosed",
+   "direction": "Kurt-Schumacher-Platz",
+   "remarks": [
+    {
+     "type": "hint",
+     "code": "FK",
+     "text": "Bicycle conveyance"
+    },
+    {
+     "type": "warning",
+     "summary": "Elevator out of service",
+     "text": "The lift at U Alt-Mariendorf station (street <> intermediate level) will be repaired shortly."
+    }
+   ],
+   "stop": {
+    "type": "stop",
+    "id": "900070301",
+    "name": "U Alt-Mariendorf (Berlin)",
+    "products": {
+     "suburban": false,
+     "subway": true,
+     "tram": false,
+     "bus": false,
+     "ferry": false,
+     "express": false,
+     "regional": false
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-u-bahn-u6",
+    "name": "U6",
+    "product": "subway",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|41616|27|86|27102026",
+   "when": "2026-10-27T13:36:00+01:00",
+   "plannedWhen": "2026-10-27T13:36:00+01:00",
+   "delay": 0,
+   "platform": "Pos. 4",
+   "plannedPlatform": "Pos. 4",
+   "prognosisType": "prognosed",
+   "direction": "S Lichtenrade",
+   "remarks": [],
+   "stop": {
+    "type": "stop",
+    "id": "900070702",
+    "name": "U Alt-Mariendorf (Berlin) [Bus Frieden-/Reißeckstr.]",
+    "products": {
+     "suburban": false,
+     "subway": false,
+     "tram": false,
+     "bus": true,
+     "ferry": false,
+     "express": false,
+     "regional": false
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-bus-m76",
+    "name": "M76",
+    "product": "bus",
+    "mode": "bus"
+   }
+  },
+  {
+   "tripId": "1|52645|16|86|27102026",
+   "when": "2026-10-27T13:36:00+01:00",
+   "plannedWhen": "2026-10-27T13:36:00+01:00",
+   "delay": null,
+   "platform": "2",
+   "plannedPlatform": "2",
+   "prognosisType": null,
+   "direction": "Kurt-Schumacher-Platz",
+   "remarks": [
+    {
+     "type": "hint",
+     "code": "FK",
+     "text": "Bicycle conveyance"
+    },
+    {
+     "type": "warning",
+     "summary": "Elevator out of service",
+     "text": "The lift at U Alt-Mariendorf station (street <> intermediate level) will be repaired shortly."
+    }
+   ],
+   "stop": {
+    "type": "stop",
+    "id": "900070301",
+    "name": "U Alt-Mariendorf (Berlin)",
+    "products": {
+     "suburban": false,
+     "subway": true,
+     "tram": false,
+     "bus": false,
+     "ferry": false,
+     "express": false,
+     "regional": false
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-u-bahn-u6",
+    "name": "U6",
+    "product": "subway",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|41668|16|86|27102026",
+   "when": "2026-10-27T13:37:00+01:00",
+   "plannedWhen": "2026-10-27T13:37:00+01:00",
+   "delay": 0,
+   "platform": "Pos. 3",
+   "plannedPlatform": "Pos. 3",
+   "prognosisType": "prognosed",
+   "direction": "U Walther-Schreiber-Platz via S Priesterweg",
+   "remarks": [],
+   "stop": {
+    "type": "stop",
+    "id": "900070702",
+    "name": "U Alt-Mariendorf (Berlin) [Bus Frieden-/Reißeckstr.]",
+    "products": {
+     "suburban": false,
+     "subway": false,
+     "tram": false,
+     "bus": true,
+     "ferry": false,
+     "express": false,
+     "regional": false
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-bus-m76",
+    "name": "M76",
+    "product": "bus",
+    "mode": "bus"
+   }
+  },
+  {
+   "tripId": "1|52645|17|86|27102026",
+   "when": "2026-10-27T13:41:00+01:00",
+   "plannedWhen": "2026-10-27T13:41:00+01:00",
+   "delay": null,
+   "platform": "2",
+   "plannedPlatform": "2",
+   "prognosisType": null,
+   "direction": "Kurt-Schumacher-Platz",
+   "remarks": [
+    {
+     "type": "hint",
+     "code": "FK",
+     "text": "Bicycle conveyance"
+    },
+    {
+     "type": "warning",
+     "summary": "Elevator out of service",
+     "text": "The lift at U Alt-Mariendorf station (street <> intermediate level) will be repaired shortly."
+    }
+   ],
+   "stop": {
+    "type": "stop",
+    "id": "900070301",
+    "name": "U Alt-Mariendorf (Berlin)",
+    "products": {
+     "suburban": false,
+     "subway": true,
+     "tram": false,
+     "bus": false,
+     "ferry": false,
+     "express": false,
+     "regional": false
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-u-bahn-u6",
+    "name": "U6",
+    "product": "subway",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|41616|28|86|27102026",
+   "when": "2026-10-27T13:46:00+01:00",
+   "plannedWhen": "2026-10-27T13:46:00+01:00",
+   "delay": 0,
+   "platform": "Pos. 4",
+   "plannedPlatform": "Pos. 4",
+   "prognosisType": "prognosed",
+   "direction": "S Lichtenrade",
+   "remarks": [],
+   "stop": {
+    "type": "stop",
+    "id": "900070702",
+    "name": "U Alt-Mariendorf (Berlin) [Bus Frieden-/Reißeckstr.]",
+    "products": {
+     "suburban": false,
+     "subway": false,
+     "tram": false,
+     "bus": true,
+     "ferry": false,
+     "express": false,
+     "regional": false
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-bus-m76",
+    "name": "M76",
+    "product": "bus",
+    "mode": "bus"
+   }
+  },
+  {
+   "tripId": "1|52645|18|86|27102026",
+   "when": "2026-10-27T13:46:00+01:00",
+   "plannedWhen": "2026-10-27T13:46:00+01:00",
+   "delay": null,
+   "platform": "2",
+   "plannedPlatform": "2",
+   "prognosisType": null,
+   "direction": "Kurt-Schumacher-Platz",
+   "remarks": [
+    {
+     "type": "hint",
+     "code": "FK",
+     "text": "Bicycle conveyance"
+    },
+    {
+     "type": "warning",
+     "summary": "Elevator out of service",
+     "text": "The lift at U Alt-Mariendorf station (street <> intermediate level) will be repaired shortly."
+    }
+   ],
+   "stop": {
+    "type": "stop",
+    "id": "900070301",
+    "name": "U Alt-Mariendorf (Berlin)",
+    "products": {
+     "suburban": false,
+     "subway": true,
+     "tram": false,
+     "bus": false,
+     "ferry": false,
+     "express": false,
+     "regional": false
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-u-bahn-u6",
+    "name": "U6",
+    "product": "subway",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|41668|17|86|27102026",
+   "when": "2026-10-27T13:47:00+01:00",
+   "plannedWhen": "2026-10-27T13:47:00+01:00",
+   "delay": 0,
+   "platform": "Pos. 3",
+   "plannedPlatform": "Pos. 3",
+   "prognosisType": "prognosed",
+   "direction": "U Walther-Schreiber-Platz via S Priesterweg",
+   "remarks": [],
+   "stop": {
+    "type": "stop",
+    "id": "900070702",
+    "name": "U Alt-Mariendorf (Berlin) [Bus Frieden-/Reißeckstr.]",
+    "products": {
+     "suburban": false,
+     "subway": false,
+     "tram": false,
+     "bus": true,
+     "ferry": false,
+     "express": false,
+     "regional": false
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-bus-m76",
+    "name": "M76",
+    "product": "bus",
+    "mode": "bus"
+   }
+  },
+  {
+   "tripId": "1|52645|19|86|27102026",
+   "when": "2026-10-27T13:51:00+01:00",
+   "plannedWhen": "2026-10-27T13:51:00+01:00",
+   "delay": null,
+   "platform": "2",
+   "plannedPlatform": "2",
+   "prognosisType": null,
+   "direction": "Kurt-Schumacher-Platz",
+   "remarks": [
+    {
+     "type": "hint",
+     "code": "FK",
+     "text": "Bicycle conveyance"
+    },
+    {
+     "type": "warning",
+     "summary": "Elevator out of service",
+     "text": "The lift at U Alt-Mariendorf station (street <> intermediate level) will be repaired shortly."
+    }
+   ],
+   "stop": {
+    "type": "stop",
+    "id": "900070301",
+    "name": "U Alt-Mariendorf (Berlin)",
+    "products": {
+     "suburban": false,
+     "subway": true,
+     "tram": false,
+     "bus": false,
+     "ferry": false,
+     "express": false,
+     "regional": false
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-u-bahn-u6",
+    "name": "U6",
+    "product": "subway",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|41616|29|86|27102026",
+   "when": "2026-10-27T13:56:00+01:00",
+   "plannedWhen": "2026-10-27T13:56:00+01:00",
+   "delay": 0,
+   "platform": "Pos. 4",
+   "plannedPlatform": "Pos. 4",
+   "prognosisType": "prognosed",
+   "direction": "S Lichtenrade",
+   "remarks": [],
+   "stop": {
+    "type": "stop",
+    "id": "900070702",
+    "name": "U Alt-Mariendorf (Berlin) [Bus Frieden-/Reißeckstr.]",
+    "products": {
+     "suburban": false,
+     "subway": false,
+     "tram": false,
+     "bus": true,
+     "ferry": false,
+     "express": false,
+     "regional": false
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-bus-m76",
+    "name": "M76",
+    "product": "bus",
+    "mode": "bus"
+   }
+  },
+  {
+   "tripId": "1|52645|20|86|27102026",
+   "when": "2026-10-27T13:56:00+01:00",
+   "plannedWhen": "2026-10-27T13:56:00+01:00",
+   "delay": null,
+   "platform": "2",
+   "plannedPlatform": "2",
+   "prognosisType": null,
+   "direction": "Kurt-Schumacher-Platz",
+   "remarks": [
+    {
+     "type": "hint",
+     "code": "FK",
+     "text": "Bicycle conveyance"
+    },
+    {
+     "type": "warning",
+     "summary": "Elevator out of service",
+     "text": "The lift at U Alt-Mariendorf station (street <> intermediate level) will be repaired shortly."
+    }
+   ],
+   "stop": {
+    "type": "stop",
+    "id": "900070301",
+    "name": "U Alt-Mariendorf (Berlin)",
+    "products": {
+     "suburban": false,
+     "subway": true,
+     "tram": false,
+     "bus": false,
+     "ferry": false,
+     "express": false,
+     "regional": false
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-u-bahn-u6",
+    "name": "U6",
+    "product": "subway",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|41668|18|86|27102026",
+   "when": "2026-10-27T13:57:00+01:00",
+   "plannedWhen": "2026-10-27T13:57:00+01:00",
+   "delay": 0,
+   "platform": "Pos. 3",
+   "plannedPlatform": "Pos. 3",
+   "prognosisType": "prognosed",
+   "direction": "U Walther-Schreiber-Platz via S Priesterweg",
+   "remarks": [],
+   "stop": {
+    "type": "stop",
+    "id": "900070702",
+    "name": "U Alt-Mariendorf (Berlin) [Bus Frieden-/Reißeckstr.]",
+    "products": {
+     "suburban": false,
+     "subway": false,
+     "tram": false,
+     "bus": true,
+     "ferry": false,
+     "express": false,
+     "regional": false
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-bus-m76",
+    "name": "M76",
+    "product": "bus",
+    "mode": "bus"
+   }
+  },
+  {
+   "tripId": "1|52645|21|86|27102026",
+   "when": "2026-10-27T14:01:00+01:00",
+   "plannedWhen": "2026-10-27T14:01:00+01:00",
+   "delay": null,
+   "platform": "2",
+   "plannedPlatform": "2",
+   "prognosisType": null,
+   "direction": "Kurt-Schumacher-Platz",
+   "remarks": [
+    {
+     "type": "hint",
+     "code": "FK",
+     "text": "Bicycle conveyance"
+    },
+    {
+     "type": "warning",
+     "summary": "Elevator out of service",
+     "text": "The lift at U Alt-Mariendorf station (street <> intermediate level) will be repaired shortly."
+    }
+   ],
+   "stop": {
+    "type": "stop",
+    "id": "900070301",
+    "name": "U Alt-Mariendorf (Berlin)",
+    "products": {
+     "suburban": false,
+     "subway": true,
+     "tram": false,
+     "bus": false,
+     "ferry": false,
+     "express": false,
+     "regional": false
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-u-bahn-u6",
+    "name": "U6",
+    "product": "subway",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|41616|30|86|27102026",
+   "when": "2026-10-27T14:06:00+01:00",
+   "plannedWhen": "2026-10-27T14:06:00+01:00",
+   "delay": 0,
+   "platform": "Pos. 4",
+   "plannedPlatform": "Pos. 4",
+   "prognosisType": "prognosed",
+   "direction": "S Lichtenrade",
+   "remarks": [],
+   "stop": {
+    "type": "stop",
+    "id": "900070702",
+    "name": "U Alt-Mariendorf (Berlin) [Bus Frieden-/Reißeckstr.]",
+    "products": {
+     "suburban": false,
+     "subway": false,
+     "tram": false,
+     "bus": true,
+     "ferry": false,
+     "express": false,
+     "regional": false
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-bus-m76",
+    "name": "M76",
+    "product": "bus",
+    "mode": "bus"
+   }
+  },
+  {
+   "tripId": "1|52645|22|86|27102026",
+   "when": "2026-10-27T14:06:00+01:00",
+   "plannedWhen": "2026-10-27T14:06:00+01:00",
+   "delay": null,
+   "platform": "2",
+   "plannedPlatform": "2",
+   "prognosisType": null,
+   "direction": "Kurt-Schumacher-Platz",
+   "remarks": [
+    {
+     "type": "hint",
+     "code": "FK",
+     "text": "Bicycle conveyance"
+    },
+    {
+     "type": "warning",
+     "summary": "Elevator out of service",
+     "text": "The lift at U Alt-Mariendorf station (street <> intermediate level) will be repaired shortly."
+    }
+   ],
+   "stop": {
+    "type": "stop",
+    "id": "900070301",
+    "name": "U Alt-Mariendorf (Berlin)",
+    "products": {
+     "suburban": false,
+     "subway": true,
+     "tram": false,
+     "bus": false,
+     "ferry": false,
+     "express": false,
+     "regional": false
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-u-bahn-u6",
+    "name": "U6",
+    "product": "subway",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|41668|19|86|27102026",
+   "when": "2026-10-27T14:07:00+01:00",
+   "plannedWhen": "2026-10-27T14:07:00+01:00",
+   "delay": 0,
+   "platform": "Pos. 3",
+   "plannedPlatform": "Pos. 3",
+   "prognosisType": "prognosed",
+   "direction": "U Walther-Schreiber-Platz via S Priesterweg",
+   "remarks": [],
+   "stop": {
+    "type": "stop",
+    "id": "900070702",
+    "name": "U Alt-Mariendorf (Berlin) [Bus Frieden-/Reißeckstr.]",
+    "products": {
+     "suburban": false,
+     "subway": false,
+     "tram": false,
+     "bus": true,
+     "ferry": false,
+     "express": false,
+     "regional": false
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-bus-m76",
+    "name": "M76",
+    "product": "bus",
+    "mode": "bus"
+   }
+  },
+  {
+   "tripId": "1|52645|23|86|27102026",
+   "when": "2026-10-27T14:11:00+01:00",
+   "plannedWhen": "2026-10-27T14:11:00+01:00",
+   "delay": null,
+   "platform": "2",
+   "plannedPlatform": "2",
+   "prognosisType": null,
+   "direction": "Kurt-Schumacher-Platz",
+   "remarks": [
+    {
+     "type": "hint",
+     "code": "FK",
+     "text": "Bicycle conveyance"
+    },
+    {
+     "type": "warning",
+     "summary": "Elevator out of service",
+     "text": "The lift at U Alt-Mariendorf station (street <> intermediate level) will be repaired shortly."
+    }
+   ],
+   "stop": {
+    "type": "stop",
+    "id": "900070301",
+    "name": "U Alt-Mariendorf (Berlin)",
+    "products": {
+     "suburban": false,
+     "subway": true,
+     "tram": false,
+     "bus": false,
+     "ferry": false,
+     "express": false,
+     "regional": false
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-u-bahn-u6",
+    "name": "U6",
+    "product": "subway",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|41617|0|86|27102026",
+   "when": "2026-10-27T14:16:00+01:00",
+   "plannedWhen": "2026-10-27T14:16:00+01:00",
+   "delay": 0,
+   "platform": "Pos. 4",
+   "plannedPlatform": "Pos. 4",
+   "prognosisType": "prognosed",
+   "direction": "S Lichtenrade",
+   "remarks": [],
+   "stop": {
+    "type": "stop",
+    "id": "900070702",
+    "name": "U Alt-Mariendorf (Berlin) [Bus Frieden-/Reißeckstr.]",
+    "products": {
+     "suburban": false,
+     "subway": false,
+     "tram": false,
+     "bus": true,
+     "ferry": false,
+     "express": false,
+     "regional": false
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-bus-m76",
+    "name": "M76",
+    "product": "bus",
+    "mode": "bus"
+   }
+  },
+  {
+   "tripId": "1|52645|24|86|27102026",
+   "when": "2026-10-27T14:16:00+01:00",
+   "plannedWhen": "2026-10-27T14:16:00+01:00",
+   "delay": null,
+   "platform": "2",
+   "plannedPlatform": "2",
+   "prognosisType": null,
+   "direction": "Kurt-Schumacher-Platz",
+   "remarks": [
+    {
+     "type": "hint",
+     "code": "FK",
+     "text": "Bicycle conveyance"
+    },
+    {
+     "type": "warning",
+     "summary": "Elevator out of service",
+     "text": "The lift at U Alt-Mariendorf station (street <> intermediate level) will be repaired shortly."
+    }
+   ],
+   "stop": {
+    "type": "stop",
+    "id": "900070301",
+    "name": "U Alt-Mariendorf (Berlin)",
+    "products": {
+     "suburban": false,
+     "subway": true,
+     "tram": false,
+     "bus": false,
+     "ferry": false,
+     "express": false,
+     "regional": false
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-u-bahn-u6",
+    "name": "U6",
+    "product": "subway",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|41668|20|86|27102026",
+   "when": "2026-10-27T14:17:00+01:00",
+   "plannedWhen": "2026-10-27T14:17:00+01:00",
+   "delay": 0,
+   "platform": "Pos. 3",
+   "plannedPlatform": "Pos. 3",
+   "prognosisType": "prognosed",
+   "direction": "U Walther-Schreiber-Platz via S Priesterweg",
+   "remarks": [],
+   "stop": {
+    "type": "stop",
+    "id": "900070702",
+    "name": "U Alt-Mariendorf (Berlin) [Bus Frieden-/Reißeckstr.]",
+    "products": {
+     "suburban": false,
+     "subway": false,
+     "tram": false,
+     "bus": true,
+     "ferry": false,
+     "express": false,
+     "regional": false
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-bus-m76",
+    "name": "M76",
+    "product": "bus",
+    "mode": "bus"
+   }
+  },
+  {
+   "tripId": "1|52645|25|86|27102026",
+   "when": "2026-10-27T14:21:00+01:00",
+   "plannedWhen": "2026-10-27T14:21:00+01:00",
+   "delay": null,
+   "platform": "2",
+   "plannedPlatform": "2",
+   "prognosisType": null,
+   "direction": "Kurt-Schumacher-Platz",
+   "remarks": [
+    {
+     "type": "hint",
+     "code": "FK",
+     "text": "Bicycle conveyance"
+    },
+    {
+     "type": "warning",
+     "summary": "Elevator out of service",
+     "text": "The lift at U Alt-Mariendorf station (street <> intermediate level) will be repaired shortly."
+    }
+   ],
+   "stop": {
+    "type": "stop",
+    "id": "900070301",
+    "name": "U Alt-Mariendorf (Berlin)",
+    "products": {
+     "suburban": false,
+     "subway": true,
+     "tram": false,
+     "bus": false,
+     "ferry": false,
+     "express": false,
+     "regional": false
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-u-bahn-u6",
+    "name": "U6",
+    "product": "subway",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|41617|1|86|27102026",
+   "when": "2026-10-27T14:26:00+01:00",
+   "plannedWhen": "2026-10-27T14:26:00+01:00",
+   "delay": 0,
+   "platform": "Pos. 4",
+   "plannedPlatform": "Pos. 4",
+   "prognosisType": "prognosed",
+   "direction": "S Lichtenrade",
+   "remarks": [],
+   "stop": {
+    "type": "stop",
+    "id": "900070702",
+    "name": "U Alt-Mariendorf (Berlin) [Bus Frieden-/Reißeckstr.]",
+    "products": {
+     "suburban": false,
+     "subway": false,
+     "tram": false,
+     "bus": true,
+     "ferry": false,
+     "express": false,
+     "regional": false
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-bus-m76",
+    "name": "M76",
+    "product": "bus",
+    "mode": "bus"
+   }
+  },
+  {
+   "tripId": "1|52645|26|86|27102026",
+   "when": "2026-10-27T14:26:00+01:00",
+   "plannedWhen": "2026-10-27T14:26:00+01:00",
+   "delay": null,
+   "platform": "2",
+   "plannedPlatform": "2",
+   "prognosisType": null,
+   "direction": "Kurt-Schumacher-Platz",
+   "remarks": [
+    {
+     "type": "hint",
+     "code": "FK",
+     "text": "Bicycle conveyance"
+    },
+    {
+     "type": "warning",
+     "summary": "Elevator out of service",
+     "text": "The lift at U Alt-Mariendorf station (street <> intermediate level) will be repaired shortly."
+    }
+   ],
+   "stop": {
+    "type": "stop",
+    "id": "900070301",
+    "name": "U Alt-Mariendorf (Berlin)",
+    "products": {
+     "suburban": false,
+     "subway": true,
+     "tram": false,
+     "bus": false,
+     "ferry": false,
+     "express": false,
+     "regional": false
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-u-bahn-u6",
+    "name": "U6",
+    "product": "subway",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|41668|21|86|27102026",
+   "when": "2026-10-27T14:27:00+01:00",
+   "plannedWhen": "2026-10-27T14:27:00+01:00",
+   "delay": 0,
+   "platform": "Pos. 3",
+   "plannedPlatform": "Pos. 3",
+   "prognosisType": "prognosed",
+   "direction": "U Walther-Schreiber-Platz via S Priesterweg",
+   "remarks": [],
+   "stop": {
+    "type": "stop",
+    "id": "900070702",
+    "name": "U Alt-Mariendorf (Berlin) [Bus Frieden-/Reißeckstr.]",
+    "products": {
+     "suburban": false,
+     "subway": false,
+     "tram": false,
+     "bus": true,
+     "ferry": false,
+     "express": false,
+     "regional": false
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-bus-m76",
+    "name": "M76",
+    "product": "bus",
+    "mode": "bus"
+   }
+  },
+  {
+   "tripId": "1|52645|27|86|27102026",
+   "when": "2026-10-27T14:31:00+01:00",
+   "plannedWhen": "2026-10-27T14:31:00+01:00",
+   "delay": null,
+   "platform": "2",
+   "plannedPlatform": "2",
+   "prognosisType": null,
+   "direction": "Kurt-Schumacher-Platz",
+   "remarks": [
+    {
+     "type": "hint",
+     "code": "FK",
+     "text": "Bicycle conveyance"
+    },
+    {
+     "type": "warning",
+     "summary": "Elevator out of service",
+     "text": "The lift at U Alt-Mariendorf station (street <> intermediate level) will be repaired shortly."
+    }
+   ],
+   "stop": {
+    "type": "stop",
+    "id": "900070301",
+    "name": "U Alt-Mariendorf (Berlin)",
+    "products": {
+     "suburban": false,
+     "subway": true,
+     "tram": false,
+     "bus": false,
+     "ferry": false,
+     "express": false,
+     "regional": false
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-u-bahn-u6",
+    "name": "U6",
+    "product": "subway",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|41618|0|86|27102026",
+   "when": "2026-10-27T14:36:00+01:00",
+   "plannedWhen": "2026-10-27T14:36:00+01:00",
+   "delay": null,
+   "platform": "Pos. 4",
+   "plannedPlatform": "Pos. 4",
+   "prognosisType": null,
+   "direction": "S Lichtenrade",
+   "remarks": [],
+   "stop": {
+    "type": "stop",
+    "id": "900070702",
+    "name": "U Alt-Mariendorf (Berlin) [Bus Frieden-/Reißeckstr.]",
+    "products": {
+     "suburban": false,
+     "subway": false,
+     "tram": false,
+     "bus": true,
+     "ferry": false,
+     "express": false,
+     "regional": false
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-bus-m76",
+    "name": "M76",
+    "product": "bus",
+    "mode": "bus"
+   }
+  },
+  {
+   "tripId": "1|52645|28|86|27102026",
+   "when": "2026-10-27T14:36:00+01:00",
+   "plannedWhen": "2026-10-27T14:36:00+01:00",
+   "delay": null,
+   "platform": "2",
+   "plannedPlatform": "2",
+   "prognosisType": null,
+   "direction": "Kurt-Schumacher-Platz",
+   "remarks": [
+    {
+     "type": "hint",
+     "code": "FK",
+     "text": "Bicycle conveyance"
+    },
+    {
+     "type": "warning",
+     "summary": "Elevator out of service",
+     "text": "The lift at U Alt-Mariendorf station (street <> intermediate level) will be repaired shortly."
+    }
+   ],
+   "stop": {
+    "type": "stop",
+    "id": "900070301",
+    "name": "U Alt-Mariendorf (Berlin)",
+    "products": {
+     "suburban": false,
+     "subway": true,
+     "tram": false,
+     "bus": false,
+     "ferry": false,
+     "express": false,
+     "regional": false
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-u-bahn-u6",
+    "name": "U6",
+    "product": "subway",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|41668|22|86|27102026",
+   "when": "2026-10-27T14:37:00+01:00",
+   "plannedWhen": "2026-10-27T14:37:00+01:00",
+   "delay": null,
+   "platform": "Pos. 3",
+   "plannedPlatform": "Pos. 3",
+   "prognosisType": null,
+   "direction": "U Walther-Schreiber-Platz via S Priesterweg",
+   "remarks": [],
+   "stop": {
+    "type": "stop",
+    "id": "900070702",
+    "name": "U Alt-Mariendorf (Berlin) [Bus Frieden-/Reißeckstr.]",
+    "products": {
+     "suburban": false,
+     "subway": false,
+     "tram": false,
+     "bus": true,
+     "ferry": false,
+     "express": false,
+     "regional": false
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-bus-m76",
+    "name": "M76",
+    "product": "bus",
+    "mode": "bus"
+   }
+  },
+  {
+   "tripId": "1|52645|29|86|27102026",
+   "when": "2026-10-27T14:41:00+01:00",
+   "plannedWhen": "2026-10-27T14:41:00+01:00",
+   "delay": null,
+   "platform": "2",
+   "plannedPlatform": "2",
+   "prognosisType": null,
+   "direction": "Kurt-Schumacher-Platz",
+   "remarks": [
+    {
+     "type": "hint",
+     "code": "FK",
+     "text": "Bicycle conveyance"
+    },
+    {
+     "type": "warning",
+     "summary": "Elevator out of service",
+     "text": "The lift at U Alt-Mariendorf station (street <> intermediate level) will be repaired shortly."
+    }
+   ],
+   "stop": {
+    "type": "stop",
+    "id": "900070301",
+    "name": "U Alt-Mariendorf (Berlin)",
+    "products": {
+     "suburban": false,
+     "subway": true,
+     "tram": false,
+     "bus": false,
+     "ferry": false,
+     "express": false,
+     "regional": false
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-u-bahn-u6",
+    "name": "U6",
+    "product": "subway",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|52653|0|86|27102026",
+   "when": "2026-10-27T14:45:00+01:00",
+   "plannedWhen": "2026-10-27T14:45:00+01:00",
+   "delay": null,
+   "platform": "2",
+   "plannedPlatform": "2",
+   "prognosisType": null,
+   "direction": "Kurt-Schumacher-Platz",
+   "remarks": [
+    {
+     "type": "hint",
+     "code": "FK",
+     "text": "Bicycle conveyance"
+    },
+    {
+     "type": "warning",
+     "summary": "Elevator out of service",
+     "text": "The lift at U Alt-Mariendorf station (street <> intermediate level) will be repaired shortly."
+    }
+   ],
+   "stop": {
+    "type": "stop",
+    "id": "900070301",
+    "name": "U Alt-Mariendorf (Berlin)",
+    "products": {
+     "suburban": false,
+     "subway": true,
+     "tram": false,
+     "bus": false,
+     "ferry": false,
+     "express": false,
+     "regional": false
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-u-bahn-u6",
+    "name": "U6",
+    "product": "subway",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|41618|1|86|27102026",
+   "when": "2026-10-27T14:46:00+01:00",
+   "plannedWhen": "2026-10-27T14:46:00+01:00",
+   "delay": null,
+   "platform": "Pos. 4",
+   "plannedPlatform": "Pos. 4",
+   "prognosisType": null,
+   "direction": "S Lichtenrade",
+   "remarks": [],
+   "stop": {
+    "type": "stop",
+    "id": "900070702",
+    "name": "U Alt-Mariendorf (Berlin) [Bus Frieden-/Reißeckstr.]",
+    "products": {
+     "suburban": false,
+     "subway": false,
+     "tram": false,
+     "bus": true,
+     "ferry": false,
+     "express": false,
+     "regional": false
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-bus-m76",
+    "name": "M76",
+    "product": "bus",
+    "mode": "bus"
+   }
+  },
+  {
+   "tripId": "1|41668|23|86|27102026",
+   "when": "2026-10-27T14:47:00+01:00",
+   "plannedWhen": "2026-10-27T14:47:00+01:00",
+   "delay": null,
+   "platform": "Pos. 3",
+   "plannedPlatform": "Pos. 3",
+   "prognosisType": null,
+   "direction": "U Walther-Schreiber-Platz via S Priesterweg",
+   "remarks": [],
+   "stop": {
+    "type": "stop",
+    "id": "900070702",
+    "name": "U Alt-Mariendorf (Berlin) [Bus Frieden-/Reißeckstr.]",
+    "products": {
+     "suburban": false,
+     "subway": false,
+     "tram": false,
+     "bus": true,
+     "ferry": false,
+     "express": false,
+     "regional": false
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-bus-m76",
+    "name": "M76",
+    "product": "bus",
+    "mode": "bus"
+   }
+  },
+  {
+   "tripId": "1|52654|0|86|27102026",
+   "when": "2026-10-27T14:49:00+01:00",
+   "plannedWhen": "2026-10-27T14:49:00+01:00",
+   "delay": null,
+   "platform": "2",
+   "plannedPlatform": "2",
+   "prognosisType": null,
+   "direction": "Kurt-Schumacher-Platz",
+   "remarks": [
+    {
+     "type": "hint",
+     "code": "FK",
+     "text": "Bicycle conveyance"
+    },
+    {
+     "type": "warning",
+     "summary": "Elevator out of service",
+     "text": "The lift at U Alt-Mariendorf station (street <> intermediate level) will be repaired shortly."
+    }
+   ],
+   "stop": {
+    "type": "stop",
+    "id": "900070301",
+    "name": "U Alt-Mariendorf (Berlin)",
+    "products": {
+     "suburban": false,
+     "subway": true,
+     "tram": false,
+     "bus": false,
+     "ferry": false,
+     "express": false,
+     "regional": false
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-u-bahn-u6",
+    "name": "U6",
+    "product": "subway",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|52653|1|86|27102026",
+   "when": "2026-10-27T14:54:00+01:00",
+   "plannedWhen": "2026-10-27T14:54:00+01:00",
+   "delay": null,
+   "platform": "2",
+   "plannedPlatform": "2",
+   "prognosisType": null,
+   "direction": "Kurt-Schumacher-Platz",
+   "remarks": [
+    {
+     "type": "hint",
+     "code": "FK",
+     "text": "Bicycle conveyance"
+    },
+    {
+     "type": "warning",
+     "summary": "Elevator out of service",
+     "text": "The lift at U Alt-Mariendorf station (street <> intermediate level) will be repaired shortly."
+    }
+   ],
+   "stop": {
+    "type": "stop",
+    "id": "900070301",
+    "name": "U Alt-Mariendorf (Berlin)",
+    "products": {
+     "suburban": false,
+     "subway": true,
+     "tram": false,
+     "bus": false,
+     "ferry": false,
+     "express": false,
+     "regional": false
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-u-bahn-u6",
+    "name": "U6",
+    "product": "subway",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|41618|2|86|27102026",
+   "when": "2026-10-27T14:56:00+01:00",
+   "plannedWhen": "2026-10-27T14:56:00+01:00",
+   "delay": null,
+   "platform": "Pos. 4",
+   "plannedPlatform": "Pos. 4",
+   "prognosisType": null,
+   "direction": "S Lichtenrade",
+   "remarks": [],
+   "stop": {
+    "type": "stop",
+    "id": "900070702",
+    "name": "U Alt-Mariendorf (Berlin) [Bus Frieden-/Reißeckstr.]",
+    "products": {
+     "suburban": false,
+     "subway": false,
+     "tram": false,
+     "bus": true,
+     "ferry": false,
+     "express": false,
+     "regional": false
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-bus-m76",
+    "name": "M76",
+    "product": "bus",
+    "mode": "bus"
+   }
+  },
+  {
+   "tripId": "1|41667|0|86|27102026",
+   "when": "2026-10-27T14:56:00+01:00",
+   "plannedWhen": "2026-10-27T14:56:00+01:00",
+   "delay": null,
+   "platform": "Pos. 3",
+   "plannedPlatform": "Pos. 3",
+   "prognosisType": null,
+   "direction": "U Walther-Schreiber-Platz via S Priesterweg",
+   "remarks": [],
+   "stop": {
+    "type": "stop",
+    "id": "900070702",
+    "name": "U Alt-Mariendorf (Berlin) [Bus Frieden-/Reißeckstr.]",
+    "products": {
+     "suburban": false,
+     "subway": false,
+     "tram": false,
+     "bus": true,
+     "ferry": false,
+     "express": false,
+     "regional": false
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-bus-m76",
+    "name": "M76",
+    "product": "bus",
+    "mode": "bus"
+   }
+  },
+  {
+   "tripId": "1|52655|0|86|27102026",
+   "when": "2026-10-27T14:58:00+01:00",
+   "plannedWhen": "2026-10-27T14:58:00+01:00",
+   "delay": null,
+   "platform": "2",
+   "plannedPlatform": "2",
+   "prognosisType": null,
+   "direction": "Kurt-Schumacher-Platz",
+   "remarks": [
+    {
+     "type": "hint",
+     "code": "FK",
+     "text": "Bicycle conveyance"
+    },
+    {
+     "type": "warning",
+     "summary": "Elevator out of service",
+     "text": "The lift at U Alt-Mariendorf station (street <> intermediate level) will be repaired shortly."
+    }
+   ],
+   "stop": {
+    "type": "stop",
+    "id": "900070301",
+    "name": "U Alt-Mariendorf (Berlin)",
+    "products": {
+     "suburban": false,
+     "subway": true,
+     "tram": false,
+     "bus": false,
+     "ferry": false,
+     "express": false,
+     "regional": false
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-u-bahn-u6",
+    "name": "U6",
+    "product": "subway",
+    "mode": "train"
+   }
+  },
+  {
+   "tripId": "1|52654|1|86|27102026",
+   "when": "2026-10-27T15:02:00+01:00",
+   "plannedWhen": "2026-10-27T15:02:00+01:00",
+   "delay": null,
+   "platform": "2",
+   "plannedPlatform": "2",
+   "prognosisType": null,
+   "direction": "Kurt-Schumacher-Platz",
+   "remarks": [
+    {
+     "type": "hint",
+     "code": "FK",
+     "text": "Bicycle conveyance"
+    },
+    {
+     "type": "warning",
+     "summary": "Elevator out of service",
+     "text": "The lift at U Alt-Mariendorf station (street <> intermediate level) will be repaired shortly."
+    }
+   ],
+   "stop": {
+    "type": "stop",
+    "id": "900070301",
+    "name": "U Alt-Mariendorf (Berlin)",
+    "products": {
+     "suburban": false,
+     "subway": true,
+     "tram": false,
+     "bus": false,
+     "ferry": false,
+     "express": false,
+     "regional": false
+    }
+   },
+   "line": {
+    "type": "line",
+    "id": "de-vbb-11000000-u-bahn-u6",
+    "name": "U6",
+    "product": "subway",
+    "mode": "train"
+   }
+  }
+ ],
+ "realtimeDataUpdatedAt": 1793102586
+}

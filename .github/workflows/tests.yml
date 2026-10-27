@@ -1,0 +1,28 @@
+name: Tests
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  pytest:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          # Minimum from hacs.json (HA 2026.9.0)
+          - name: min
+            harness: "pytest-homeassistant-custom-component==0.13.363"
+          - name: latest
+            harness: "pytest-homeassistant-custom-component"
+    name: pytest (${{ matrix.name }})
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+      - run: uv venv -p 3.14 && uv pip install "${{ matrix.harness }}" freezegun pytest-cov
+      - name: Run tests (>= 90% coverage)
+        run: >
+          uv run --no-project pytest -q
+          --cov=custom_components.bvg_departures --cov-report=term-missing
+          --cov-fail-under=90

@@ -1,0 +1,28 @@
+name: Release
+
+on:
+  push:
+    tags: ["v*.*.*"]
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check manifest version matches tag
+        run: |
+          tag="${GITHUB_REF_NAME#v}"
+          version="$(jq -r .version custom_components/bvg_departures/manifest.json)"
+          if [ "$tag" != "$version" ]; then
+            echo "Tag v$tag does not match manifest.json version $version" >&2
+            exit 1
+          fi
+      - name: Build zip
+        run: cd custom_components/bvg_departures && zip -r "$GITHUB_WORKSPACE/bvg_departures.zip" . -x '__pycache__/*'
+      - uses: softprops/action-gh-release@v2
+        with:
+          files: bvg_departures.zip
+          generate_release_notes: true

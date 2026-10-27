@@ -1,0 +1,170 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Find your stop",
+        "description": "Type part of the stop name, e.g. \"Alt-Mariendorf\".",
+        "data": {
+          "stop_name": "Stop name"
+        }
+      },
+      "pick_stop": {
+        "title": "Choose the stop",
+        "description": "Several stops match. Each one is listed with the lines that serve it.",
+        "data": {
+          "stop": "Stop"
+        }
+      },
+      "first_line": {
+        "title": "First line",
+        "description": "Pick a line departing from {stop}. Leave it empty to add lines later from the stop's card.",
+        "data": {
+          "line": "Line"
+        }
+      },
+      "direction": {
+        "title": "Direction",
+        "description": "Where is {line} heading? Directions are told apart by the next stop, shown in brackets.",
+        "data": {
+          "direction": "Direction"
+        }
+      },
+      "details": {
+        "title": "Details",
+        "description": "{line} {direction} from {stop}.",
+        "data": {
+          "name": "Name",
+          "lead_min": "Walking time",
+          "include_cancelled": "Include cancelled departures"
+        },
+        "data_description": {
+          "lead_min": "Departures sooner than this are skipped."
+        }
+      }
+    },
+    "error": {
+      "no_stops_found": "No stop found. Try a different spelling.",
+      "cannot_connect": "The departure service can't be reached. Try again in a moment.",
+      "no_live_departures": "No departures of this line in the next 2 hours, so its directions can't be detected. Submit to try again later."
+    },
+    "abort": {
+      "already_configured": "This is already configured.",
+      "cannot_connect": "The departure service can't be reached. Try again in a moment.",
+      "no_lines": "No lines found at this stop."
+    }
+  },
+  "config_subentries": {
+    "departure": {
+      "entry_type": "Departure",
+      "initiate_flow": {
+        "user": "Add departure"
+      },
+      "step": {
+        "line": {
+          "title": "Line",
+          "description": "Which line at {stop}?",
+          "data": {
+            "line": "Line"
+          }
+        },
+        "direction": {
+          "title": "Direction",
+          "description": "Where is {line} heading? Directions are told apart by the next stop, shown in brackets.",
+          "data": {
+            "direction": "Direction"
+          }
+        },
+        "details": {
+          "title": "Details",
+          "description": "{line} {direction} from {stop}.",
+          "data": {
+            "name": "Name",
+            "lead_min": "Walking time",
+            "include_cancelled": "Include cancelled departures"
+          },
+          "data_description": {
+            "lead_min": "Departures sooner than this are skipped."
+          }
+        },
+        "reconfigure": {
+          "title": "Edit departure",
+          "description": "{line} → {direction} from {stop}. To change line or direction, delete this departure and add a new one.",
+          "data": {
+            "name": "Name",
+            "lead_min": "Walking time",
+            "include_cancelled": "Include cancelled departures"
+          },
+          "data_description": {
+            "lead_min": "Departures sooner than this are skipped."
+          },
+          "sections": {
+            "advanced": {
+              "name": "Advanced: match by headsign",
+              "description": "Only for lines that split before the next stop.",
+              "data": {
+                "match_by_headsign": "Match by headsign instead of next stop",
+                "headsigns": "Accepted headsigns"
+              }
+            }
+          }
+        }
+      },
+      "error": {
+        "no_live_departures": "No departures of this line in the next 2 hours, so its directions can't be detected. Submit to try again later.",
+        "headsigns_required": "Pick at least one headsign.",
+        "headsign_only": "This departure was set up by headsign because its next stop couldn't be detected. Keep headsign matching on."
+      },
+      "abort": {
+        "already_configured": "This is already configured.",
+        "cannot_connect": "The departure service can't be reached. Try again in a moment.",
+        "no_lines": "No lines found at this stop."
+      }
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Stop settings",
+        "data": {
+          "backend": "Data source",
+          "update_interval_s": "Update interval",
+          "window_min": "Lookahead window"
+        }
+      }
+    }
+  },
+  "selector": {
+    "backend": {
+      "options": {
+        "auto": "Automatic (transport.rest, BVG HAFAS as fallback)",
+        "transport_rest": "transport.rest only",
+        "mgate": "BVG HAFAS only"
+      }
+    }
+  },
+  "entity": {
+    "sensor": {
+      "minutes": {
+        "name": "Minutes until departure"
+      },
+      "delay": {
+        "name": "Delay"
+      },
+      "following": {
+        "name": "Following departure"
+      }
+    }
+  },
+  "issues": {
+    "api_unreachable": {
+      "title": "BVG departures unreachable for {stop}",
+      "description": "No departure data could be fetched for {stop} for more than 15 minutes. Sensors keep counting down on cached data until it runs out. This clears itself once the service answers again."
+    }
+  },
+  "services": {
+    "refresh": {
+      "name": "Refresh departures",
+      "description": "Fetch departures now for the selected stops (still subject to the rate limit)."
+    }
+  }
+}

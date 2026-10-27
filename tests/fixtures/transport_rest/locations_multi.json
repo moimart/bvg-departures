@@ -1,0 +1,114 @@
+[
+ {
+  "type": "stop",
+  "id": "900070301",
+  "name": "U Alt-Mariendorf (Berlin)",
+  "products": {
+   "suburban": false,
+   "subway": true,
+   "tram": false,
+   "bus": true,
+   "ferry": false,
+   "express": false,
+   "regional": false
+  }
+ },
+ {
+  "type": "stop",
+  "id": "900070104",
+  "name": "Friedhof Mariendorf (Berlin)",
+  "products": {
+   "suburban": false,
+   "subway": false,
+   "tram": false,
+   "bus": true,
+   "ferry": false,
+   "express": false,
+   "regional": false
+  }
+ },
+ {
+  "type": "stop",
+  "id": "900070102",
+  "name": "Sommerbad Mariendorf (Berlin)",
+  "products": {
+   "suburban": false,
+   "subway": false,
+   "tram": false,
+   "bus": true,
+   "ferry": false,
+   "express": false,
+   "regional": false
+  }
+ },
+ {
+  "type": "stop",
+  "id": "900079205",
+  "name": "Hermannstr./Mariendorfer Weg (Berlin)",
+  "products": {
+   "suburban": false,
+   "subway": false,
+   "tram": false,
+   "bus": true,
+   "ferry": false,
+   "express": false,
+   "regional": false
+  }
+ },
+ {
+  "type": "stop",
+  "id": "900203417",
+  "name": "Hohen Neuendorf, Marienetta-Jirkowsky-Platz",
+  "products": {
+   "suburban": false,
+   "subway": false,
+   "tram": false,
+   "bus": true,
+   "ferry": false,
+   "express": false,
+   "regional": false
+  }
+ },
+ {
+  "type": "stop",
+  "id": "900074101",
+  "name": "Mariendorfer Damm/Buckower Chaussee (Berlin)",
+  "products": {
+   "suburban": false,
+   "subway": false,
+   "tram": false,
+   "bus": true,
+   "ferry": false,
+   "express": false,
+   "regional": false
+  }
+ },
+ {
+  "type": "stop",
+  "id": "900079206",
+  "name": "Mariendorfer Weg (Berlin)",
+  "products": {
+   "suburban": false,
+   "subway": false,
+   "tram": false,
+   "bus": true,
+   "ferry": false,
+   "express": false,
+   "regional": false
+  }
+ },
+ {
+  "type": "stop",
+  "id": "900070151",
+  "name": "Mariendorfer Damm/Eisenacher Str. (Berlin)",
+  "products": {
+   "suburban": false,
+   "subway": false,
+   "tram": false,
+   "bus": true,
+   "ferry": false,
+   "express": false,
+   "regional": false
+  }
+ }
+]

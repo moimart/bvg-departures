@@ -1,0 +1,20 @@
+{
+  "entity": {
+    "sensor": {
+      "next_suburban": { "default": "mdi:train" },
+      "next_subway": { "default": "mdi:subway-variant" },
+      "next_tram": { "default": "mdi:tram" },
+      "next_bus": { "default": "mdi:bus" },
+      "next_ferry": { "default": "mdi:ferry" },
+      "next_express": { "default": "mdi:train" },
+      "next_regional": { "default": "mdi:train" },
+      "next_other": { "default": "mdi:clock-outline" },
+      "minutes": { "default": "mdi:timer-outline" },
+      "delay": { "default": "mdi:clock-alert-outline" },
+      "following": { "default": "mdi:clock-time-four-outline" }
+    }
+  },
+  "services": {
+    "refresh": { "service": "mdi:refresh" }
+  }
+}

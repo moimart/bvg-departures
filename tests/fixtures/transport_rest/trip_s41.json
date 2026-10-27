@@ -1,0 +1,892 @@
+{
+ "trip": {
+  "id": "1|78797|44|86|27102026",
+  "line": {
+   "name": "S41",
+   "product": "suburban"
+  },
+  "direction": "Ringbahn S 41",
+  "stopovers": [
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900020202",
+     "name": "S Beusselstr. (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900001201",
+     "name": "S+U Westhafen (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": true,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900009104",
+     "name": "S+U Wedding (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": true,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900007102",
+     "name": "S+U Gesundbrunnen Bhf (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": true,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": true,
+      "regional": true
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900110001",
+     "name": "S+U Schönhauser Allee (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": true,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900110002",
+     "name": "S Prenzlauer Allee (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": false,
+      "tram": true,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900110003",
+     "name": "S Greifswalder Str. (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": false,
+      "tram": true,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900110004",
+     "name": "S Landsberger Allee (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": false,
+      "tram": true,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900110012",
+     "name": "S Storkower Str. (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900120001",
+     "name": "S+U Frankfurter Allee (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": true,
+      "tram": true,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900120003",
+     "name": "S Ostkreuz Bhf (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": true,
+      "regional": true
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900190001",
+     "name": "S Treptower Park (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": false,
+      "tram": false,
+      "bus": false,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900077106",
+     "name": "S Sonnenallee (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900078201",
+     "name": "S+U Neukölln (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": true,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900079221",
+     "name": "S+U Hermannstr. (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": true,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900068201",
+     "name": "S+U Tempelhof (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": true,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900058101",
+     "name": "S Südkreuz Bhf (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": true,
+      "regional": true
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900054104",
+     "name": "S Schöneberg (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900054105",
+     "name": "S+U Innsbrucker Platz (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": true,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900044202",
+     "name": "S+U Bundesplatz (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": true,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900045102",
+     "name": "S+U Heidelberger Platz (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": true,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900044101",
+     "name": "S Hohenzollerndamm (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900040101",
+     "name": "S Halensee (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900024102",
+     "name": "S Westkreuz (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900024106",
+     "name": "S Messe Nord/ZOB (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900026207",
+     "name": "S Westend (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900020201",
+     "name": "S+U Jungfernheide Bhf (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": true,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": true
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900020202",
+     "name": "S Beusselstr. (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900001201",
+     "name": "S+U Westhafen (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": true,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900009104",
+     "name": "S+U Wedding (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": true,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900007102",
+     "name": "S+U Gesundbrunnen Bhf (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": true,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": true,
+      "regional": true
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900110001",
+     "name": "S+U Schönhauser Allee (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": true,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900110002",
+     "name": "S Prenzlauer Allee (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": false,
+      "tram": true,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900110003",
+     "name": "S Greifswalder Str. (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": false,
+      "tram": true,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900110004",
+     "name": "S Landsberger Allee (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": false,
+      "tram": true,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900110012",
+     "name": "S Storkower Str. (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900120001",
+     "name": "S+U Frankfurter Allee (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": true,
+      "tram": true,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900120003",
+     "name": "S Ostkreuz Bhf (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": true,
+      "regional": true
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900190001",
+     "name": "S Treptower Park (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": false,
+      "tram": false,
+      "bus": false,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900077106",
+     "name": "S Sonnenallee (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900078201",
+     "name": "S+U Neukölln (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": true,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900079221",
+     "name": "S+U Hermannstr. (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": true,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900068201",
+     "name": "S+U Tempelhof (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": true,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900058101",
+     "name": "S Südkreuz Bhf (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": true,
+      "regional": true
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900054104",
+     "name": "S Schöneberg (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900054105",
+     "name": "S+U Innsbrucker Platz (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": true,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900044202",
+     "name": "S+U Bundesplatz (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": true,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900045102",
+     "name": "S+U Heidelberger Platz (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": true,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900044101",
+     "name": "S Hohenzollerndamm (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900040101",
+     "name": "S Halensee (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900024102",
+     "name": "S Westkreuz (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900024106",
+     "name": "S Messe Nord/ZOB (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900026207",
+     "name": "S Westend (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900020201",
+     "name": "S+U Jungfernheide Bhf (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": true,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": true
+     }
+    }
+   },
+   {
+    "stop": {
+     "type": "stop",
+     "id": "900020202",
+     "name": "S Beusselstr. (Berlin)",
+     "products": {
+      "suburban": true,
+      "subway": false,
+      "tram": false,
+      "bus": true,
+      "ferry": false,
+      "express": false,
+      "regional": false
+     }
+    }
+   }
+  ]
+ }
+}

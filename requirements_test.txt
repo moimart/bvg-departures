@@ -1,0 +1,6 @@
+# Latest HA; tests.yml pins the minimum (hacs.json) separately.
+pytest-homeassistant-custom-component
+freezegun
+pytest-cov
+ruff
+mypy

@@ -1,0 +1,170 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Busca tu parada",
+        "description": "Escribe parte del nombre de la parada, p. ej. \"Alt-Mariendorf\".",
+        "data": {
+          "stop_name": "Parada"
+        }
+      },
+      "pick_stop": {
+        "title": "Elige la parada",
+        "description": "Varias paradas coinciden. Cada una aparece con las líneas que paran en ella.",
+        "data": {
+          "stop": "Parada"
+        }
+      },
+      "first_line": {
+        "title": "Primera línea",
+        "description": "Elige una línea que salga de {stop}. Déjalo vacío para añadir líneas más tarde desde la tarjeta de la parada.",
+        "data": {
+          "line": "Línea"
+        }
+      },
+      "direction": {
+        "title": "Dirección",
+        "description": "¿Hacia dónde va la {line}? Las direcciones se distinguen por la siguiente parada, entre paréntesis.",
+        "data": {
+          "direction": "Dirección"
+        }
+      },
+      "details": {
+        "title": "Detalles",
+        "description": "{line} {direction} desde {stop}.",
+        "data": {
+          "name": "Nombre",
+          "lead_min": "Tiempo a pie",
+          "include_cancelled": "Incluir salidas canceladas"
+        },
+        "data_description": {
+          "lead_min": "Se omiten las salidas anteriores a este tiempo."
+        }
+      }
+    },
+    "error": {
+      "no_stops_found": "No se encontró ninguna parada. Prueba otra grafía.",
+      "cannot_connect": "No se puede contactar con el servicio de salidas. Inténtalo de nuevo en un momento.",
+      "no_live_departures": "Esta línea no tiene salidas en las próximas 2 horas, así que no se pueden detectar sus direcciones. Envía para reintentarlo más tarde."
+    },
+    "abort": {
+      "already_configured": "Ya está configurado.",
+      "cannot_connect": "No se puede contactar con el servicio de salidas. Inténtalo de nuevo en un momento.",
+      "no_lines": "No se encontraron líneas en esta parada."
+    }
+  },
+  "config_subentries": {
+    "departure": {
+      "entry_type": "Salida",
+      "initiate_flow": {
+        "user": "Añadir salida"
+      },
+      "step": {
+        "line": {
+          "title": "Línea",
+          "description": "¿Qué línea en {stop}?",
+          "data": {
+            "line": "Línea"
+          }
+        },
+        "direction": {
+          "title": "Dirección",
+          "description": "¿Hacia dónde va la {line}? Las direcciones se distinguen por la siguiente parada, entre paréntesis.",
+          "data": {
+            "direction": "Dirección"
+          }
+        },
+        "details": {
+          "title": "Detalles",
+          "description": "{line} {direction} desde {stop}.",
+          "data": {
+            "name": "Nombre",
+            "lead_min": "Tiempo a pie",
+            "include_cancelled": "Incluir salidas canceladas"
+          },
+          "data_description": {
+            "lead_min": "Se omiten las salidas anteriores a este tiempo."
+          }
+        },
+        "reconfigure": {
+          "title": "Editar salida",
+          "description": "{line} → {direction} desde {stop}. Para cambiar la línea o la dirección, borra esta salida y añade una nueva.",
+          "data": {
+            "name": "Nombre",
+            "lead_min": "Tiempo a pie",
+            "include_cancelled": "Incluir salidas canceladas"
+          },
+          "data_description": {
+            "lead_min": "Se omiten las salidas anteriores a este tiempo."
+          },
+          "sections": {
+            "advanced": {
+              "name": "Avanzado: filtrar por destino",
+              "description": "Solo para líneas que se bifurcan antes de la siguiente parada.",
+              "data": {
+                "match_by_headsign": "Filtrar por destino en lugar de por la siguiente parada",
+                "headsigns": "Destinos aceptados"
+              }
+            }
+          }
+        }
+      },
+      "error": {
+        "no_live_departures": "Esta línea no tiene salidas en las próximas 2 horas, así que no se pueden detectar sus direcciones. Envía para reintentarlo más tarde.",
+        "headsigns_required": "Elige al menos un destino.",
+        "headsign_only": "Esta salida filtra por destino porque no se pudo detectar la siguiente parada. Mantén activado el filtro por destino."
+      },
+      "abort": {
+        "already_configured": "Ya está configurado.",
+        "cannot_connect": "No se puede contactar con el servicio de salidas. Inténtalo de nuevo en un momento.",
+        "no_lines": "No se encontraron líneas en esta parada."
+      }
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Ajustes de la parada",
+        "data": {
+          "backend": "Fuente de datos",
+          "update_interval_s": "Intervalo de actualización",
+          "window_min": "Ventana de previsión"
+        }
+      }
+    }
+  },
+  "selector": {
+    "backend": {
+      "options": {
+        "auto": "Automático (transport.rest, BVG HAFAS como respaldo)",
+        "transport_rest": "Solo transport.rest",
+        "mgate": "Solo BVG HAFAS"
+      }
+    }
+  },
+  "entity": {
+    "sensor": {
+      "minutes": {
+        "name": "Minutos hasta la salida"
+      },
+      "delay": {
+        "name": "Retraso"
+      },
+      "following": {
+        "name": "Salida siguiente"
+      }
+    }
+  },
+  "issues": {
+    "api_unreachable": {
+      "title": "Salidas de BVG inaccesibles para {stop}",
+      "description": "No se han podido obtener salidas para {stop} durante más de 15 minutos. Los sensores siguen contando con los datos en caché hasta que se agoten. El aviso desaparece cuando el servicio vuelve a responder."
+    }
+  },
+  "services": {
+    "refresh": {
+      "name": "Actualizar salidas",
+      "description": "Obtiene ya las salidas de las paradas seleccionadas (sigue aplicándose el límite de peticiones)."
+    }
+  }
+}
